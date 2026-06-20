@@ -1,0 +1,8959 @@
+[[replace]]
+game_path = "deco/emo/e200001/common/0"
+file = "emotes/ichihime-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/en_en/1"
+file = "emotes/ichihime-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/2"
+file = "emotes/ichihime-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/3"
+file = "emotes/ichihime-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/en_en/4"
+file = "emotes/ichihime-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/5"
+file = "emotes/ichihime-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/6"
+file = "emotes/ichihime-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/7"
+file = "emotes/ichihime-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/8"
+file = "emotes/ichihime-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/10"
+file = "emotes/ichihime-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/11"
+file = "emotes/ichihime-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/12"
+file = "emotes/ichihime-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/13"
+file = "emotes/ichihime-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/937"
+file = "emotes/ichihime-937.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/966"
+file = "emotes/ichihime-966.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/983"
+file = "emotes/ichihime-983.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/en_en/984"
+file = "emotes/ichihime-984.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/996"
+file = "emotes/ichihime-996.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200001/common/997"
+file = "emotes/ichihime-997.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/en_en/0"
+file = "emotes/nikaidoumiki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/1"
+file = "emotes/nikaidoumiki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/2"
+file = "emotes/nikaidoumiki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/3"
+file = "emotes/nikaidoumiki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/4"
+file = "emotes/nikaidoumiki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/5"
+file = "emotes/nikaidoumiki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/6"
+file = "emotes/nikaidoumiki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/en_en/7"
+file = "emotes/nikaidoumiki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/8"
+file = "emotes/nikaidoumiki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/10"
+file = "emotes/nikaidoumiki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/en_en/11"
+file = "emotes/nikaidoumiki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/12"
+file = "emotes/nikaidoumiki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/13"
+file = "emotes/nikaidoumiki-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/948"
+file = "emotes/nikaidoumiki-948.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/en_en/952"
+file = "emotes/nikaidoumiki-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/995"
+file = "emotes/nikaidoumiki-995.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200002/common/998"
+file = "emotes/nikaidoumiki-998.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/0"
+file = "emotes/fujitakana-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/1"
+file = "emotes/fujitakana-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/2"
+file = "emotes/fujitakana-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/3"
+file = "emotes/fujitakana-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/4"
+file = "emotes/fujitakana-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/5"
+file = "emotes/fujitakana-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/6"
+file = "emotes/fujitakana-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/7"
+file = "emotes/fujitakana-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/8"
+file = "emotes/fujitakana-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/10"
+file = "emotes/fujitakana-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/11"
+file = "emotes/fujitakana-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/12"
+file = "emotes/fujitakana-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/13"
+file = "emotes/fujitakana-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/927"
+file = "emotes/fujitakana-927.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/943"
+file = "emotes/fujitakana-943.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/959"
+file = "emotes/fujitakana-959.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/979"
+file = "emotes/fujitakana-979.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200003/common/999"
+file = "emotes/fujitakana-999.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/en_en/0"
+file = "emotes/mikamichiori-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/en_en/1"
+file = "emotes/mikamichiori-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/2"
+file = "emotes/mikamichiori-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/en_en/3"
+file = "emotes/mikamichiori-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/4"
+file = "emotes/mikamichiori-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/en_en/5"
+file = "emotes/mikamichiori-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/6"
+file = "emotes/mikamichiori-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/7"
+file = "emotes/mikamichiori-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/8"
+file = "emotes/mikamichiori-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/10"
+file = "emotes/mikamichiori-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/11"
+file = "emotes/mikamichiori-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/12"
+file = "emotes/mikamichiori-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/13"
+file = "emotes/mikamichiori-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/888"
+file = "emotes/mikamichiori-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/943"
+file = "emotes/mikamichiori-943.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/957"
+file = "emotes/mikamichiori-957.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/986"
+file = "emotes/mikamichiori-986.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/994"
+file = "emotes/mikamichiori-994.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200004/common/999"
+file = "emotes/mikamichiori-999.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/0"
+file = "emotes/aiharamai-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/1"
+file = "emotes/aiharamai-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/2"
+file = "emotes/aiharamai-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/3"
+file = "emotes/aiharamai-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/en_en/4"
+file = "emotes/aiharamai-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/5"
+file = "emotes/aiharamai-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/6"
+file = "emotes/aiharamai-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/7"
+file = "emotes/aiharamai-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/8"
+file = "emotes/aiharamai-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/10"
+file = "emotes/aiharamai-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/11"
+file = "emotes/aiharamai-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/12"
+file = "emotes/aiharamai-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/13"
+file = "emotes/aiharamai-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/932"
+file = "emotes/aiharamai-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/947"
+file = "emotes/aiharamai-947.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/952"
+file = "emotes/aiharamai-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/968"
+file = "emotes/aiharamai-968.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/989"
+file = "emotes/aiharamai-989.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200005/common/997"
+file = "emotes/aiharamai-997.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/0"
+file = "emotes/nadeshiko-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/1"
+file = "emotes/nadeshiko-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/2"
+file = "emotes/nadeshiko-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/en_en/3"
+file = "emotes/nadeshiko-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/4"
+file = "emotes/nadeshiko-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/en_en/5"
+file = "emotes/nadeshiko-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/6"
+file = "emotes/nadeshiko-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/7"
+file = "emotes/nadeshiko-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/8"
+file = "emotes/nadeshiko-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/10"
+file = "emotes/nadeshiko-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/11"
+file = "emotes/nadeshiko-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/12"
+file = "emotes/nadeshiko-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/en_en/13"
+file = "emotes/nadeshiko-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/en_en/888"
+file = "emotes/nadeshiko-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/949"
+file = "emotes/nadeshiko-949.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/961"
+file = "emotes/nadeshiko-961.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/977"
+file = "emotes/nadeshiko-977.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200006/common/997"
+file = "emotes/nadeshiko-997.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/0"
+file = "emotes/yagiyui-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/en_en/1"
+file = "emotes/yagiyui-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/2"
+file = "emotes/yagiyui-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/3"
+file = "emotes/yagiyui-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/4"
+file = "emotes/yagiyui-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/5"
+file = "emotes/yagiyui-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/6"
+file = "emotes/yagiyui-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/7"
+file = "emotes/yagiyui-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/8"
+file = "emotes/yagiyui-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/10"
+file = "emotes/yagiyui-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/11"
+file = "emotes/yagiyui-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/12"
+file = "emotes/yagiyui-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/13"
+file = "emotes/yagiyui-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/935"
+file = "emotes/yagiyui-935.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/947"
+file = "emotes/yagiyui-947.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/961"
+file = "emotes/yagiyui-961.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/970"
+file = "emotes/yagiyui-970.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/976"
+file = "emotes/yagiyui-976.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/993"
+file = "emotes/yagiyui-993.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200007/common/999"
+file = "emotes/yagiyui-999.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/0"
+file = "emotes/kujouriu-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/1"
+file = "emotes/kujouriu-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/2"
+file = "emotes/kujouriu-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/3"
+file = "emotes/kujouriu-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/4"
+file = "emotes/kujouriu-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/5"
+file = "emotes/kujouriu-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/6"
+file = "emotes/kujouriu-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/7"
+file = "emotes/kujouriu-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/8"
+file = "emotes/kujouriu-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/10"
+file = "emotes/kujouriu-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/11"
+file = "emotes/kujouriu-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/12"
+file = "emotes/kujouriu-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/13"
+file = "emotes/kujouriu-13.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/888"
+file = "emotes/kujouriu-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/937"
+file = "emotes/kujouriu-937.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/950"
+file = "emotes/kujouriu-950.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/972"
+file = "emotes/kujouriu-972.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/991"
+file = "emotes/kujouriu-991.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200008/common/997"
+file = "emotes/kujouriu-997.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/0"
+file = "emotes/xenia-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/1"
+file = "emotes/xenia-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/2"
+file = "emotes/xenia-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/3"
+file = "emotes/xenia-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/4"
+file = "emotes/xenia-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/5"
+file = "emotes/xenia-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/6"
+file = "emotes/xenia-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/7"
+file = "emotes/xenia-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/8"
+file = "emotes/xenia-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/10"
+file = "emotes/xenia-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/11"
+file = "emotes/xenia-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/12"
+file = "emotes/xenia-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/888"
+file = "emotes/xenia-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/929"
+file = "emotes/xenia-929.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/937"
+file = "emotes/xenia-937.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/947"
+file = "emotes/xenia-947.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/966"
+file = "emotes/xenia-966.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/common/994"
+file = "emotes/xenia-994.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200009/en_en/998"
+file = "emotes/xenia-998.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/0"
+file = "emotes/kaavi-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/1"
+file = "emotes/kaavi-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/2"
+file = "emotes/kaavi-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/3"
+file = "emotes/kaavi-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/4"
+file = "emotes/kaavi-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/en_en/5"
+file = "emotes/kaavi-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/6"
+file = "emotes/kaavi-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/7"
+file = "emotes/kaavi-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/en_en/8"
+file = "emotes/kaavi-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/10"
+file = "emotes/kaavi-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/11"
+file = "emotes/kaavi-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/12"
+file = "emotes/kaavi-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/en_en/888"
+file = "emotes/kaavi-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/965"
+file = "emotes/kaavi-965.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200010/common/982"
+file = "emotes/kaavi-982.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/0"
+file = "emotes/shinomiyanatsuki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/1"
+file = "emotes/shinomiyanatsuki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/2"
+file = "emotes/shinomiyanatsuki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/3"
+file = "emotes/shinomiyanatsuki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/4"
+file = "emotes/shinomiyanatsuki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/5"
+file = "emotes/shinomiyanatsuki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/6"
+file = "emotes/shinomiyanatsuki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/7"
+file = "emotes/shinomiyanatsuki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/8"
+file = "emotes/shinomiyanatsuki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/10"
+file = "emotes/shinomiyanatsuki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/11"
+file = "emotes/shinomiyanatsuki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/en_en/12"
+file = "emotes/shinomiyanatsuki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/en_en/888"
+file = "emotes/shinomiyanatsuki-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/970"
+file = "emotes/shinomiyanatsuki-970.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/977"
+file = "emotes/shinomiyanatsuki-977.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200011/common/998"
+file = "emotes/shinomiyanatsuki-998.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/0"
+file = "emotes/wanjirou-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/1"
+file = "emotes/wanjirou-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/2"
+file = "emotes/wanjirou-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/3"
+file = "emotes/wanjirou-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/4"
+file = "emotes/wanjirou-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/5"
+file = "emotes/wanjirou-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/6"
+file = "emotes/wanjirou-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/7"
+file = "emotes/wanjirou-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/8"
+file = "emotes/wanjirou-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/en_en/10"
+file = "emotes/wanjirou-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/11"
+file = "emotes/wanjirou-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/12"
+file = "emotes/wanjirou-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/888"
+file = "emotes/wanjirou-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/944"
+file = "emotes/wanjirou-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/959"
+file = "emotes/wanjirou-959.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200012/common/998"
+file = "emotes/wanjirou-998.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/0"
+file = "emotes/ichinosesora-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/1"
+file = "emotes/ichinosesora-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/2"
+file = "emotes/ichinosesora-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/3"
+file = "emotes/ichinosesora-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/4"
+file = "emotes/ichinosesora-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/5"
+file = "emotes/ichinosesora-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/6"
+file = "emotes/ichinosesora-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/7"
+file = "emotes/ichinosesora-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/8"
+file = "emotes/ichinosesora-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/10"
+file = "emotes/ichinosesora-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/11"
+file = "emotes/ichinosesora-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/12"
+file = "emotes/ichinosesora-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/888"
+file = "emotes/ichinosesora-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/946"
+file = "emotes/ichinosesora-946.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/966"
+file = "emotes/ichinosesora-966.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/988"
+file = "emotes/ichinosesora-988.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200013/common/999"
+file = "emotes/ichinosesora-999.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/0"
+file = "emotes/akechihideki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/1"
+file = "emotes/akechihideki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/2"
+file = "emotes/akechihideki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/3"
+file = "emotes/akechihideki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/4"
+file = "emotes/akechihideki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/5"
+file = "emotes/akechihideki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/6"
+file = "emotes/akechihideki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/7"
+file = "emotes/akechihideki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/8"
+file = "emotes/akechihideki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/10"
+file = "emotes/akechihideki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/11"
+file = "emotes/akechihideki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/12"
+file = "emotes/akechihideki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/888"
+file = "emotes/akechihideki-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/941"
+file = "emotes/akechihideki-941.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/969"
+file = "emotes/akechihideki-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/982"
+file = "emotes/akechihideki-982.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200014/common/993"
+file = "emotes/akechihideki-993.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/0"
+file = "emotes/keikumusume-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/1"
+file = "emotes/keikumusume-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/2"
+file = "emotes/keikumusume-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/3"
+file = "emotes/keikumusume-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/4"
+file = "emotes/keikumusume-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/5"
+file = "emotes/keikumusume-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/6"
+file = "emotes/keikumusume-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/7"
+file = "emotes/keikumusume-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/8"
+file = "emotes/keikumusume-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/10"
+file = "emotes/keikumusume-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/11"
+file = "emotes/keikumusume-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/12"
+file = "emotes/keikumusume-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/en_en/888"
+file = "emotes/keikumusume-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200015/common/994"
+file = "emotes/keikumusume-994.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/0"
+file = "emotes/sara-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/1"
+file = "emotes/sara-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/2"
+file = "emotes/sara-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/3"
+file = "emotes/sara-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/4"
+file = "emotes/sara-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/5"
+file = "emotes/sara-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/6"
+file = "emotes/sara-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/7"
+file = "emotes/sara-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/8"
+file = "emotes/sara-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/10"
+file = "emotes/sara-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/11"
+file = "emotes/sara-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/12"
+file = "emotes/sara-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/888"
+file = "emotes/sara-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/943"
+file = "emotes/sara-943.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/961"
+file = "emotes/sara-961.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/970"
+file = "emotes/sara-970.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/988"
+file = "emotes/sara-988.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/996"
+file = "emotes/sara-996.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/0"
+file = "emotes/ninomiyahana-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/1"
+file = "emotes/ninomiyahana-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/2"
+file = "emotes/ninomiyahana-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/3"
+file = "emotes/ninomiyahana-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/4"
+file = "emotes/ninomiyahana-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/5"
+file = "emotes/ninomiyahana-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/en_en/6"
+file = "emotes/ninomiyahana-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/en_en/7"
+file = "emotes/ninomiyahana-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/8"
+file = "emotes/ninomiyahana-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/10"
+file = "emotes/ninomiyahana-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/11"
+file = "emotes/ninomiyahana-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/12"
+file = "emotes/ninomiyahana-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/888"
+file = "emotes/ninomiyahana-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/944"
+file = "emotes/ninomiyahana-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/962"
+file = "emotes/ninomiyahana-962.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/982"
+file = "emotes/ninomiyahana-982.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200017/common/995"
+file = "emotes/ninomiyahana-995.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/0"
+file = "emotes/shiraishinana-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/1"
+file = "emotes/shiraishinana-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/en_en/2"
+file = "emotes/shiraishinana-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/3"
+file = "emotes/shiraishinana-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/4"
+file = "emotes/shiraishinana-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/5"
+file = "emotes/shiraishinana-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/6"
+file = "emotes/shiraishinana-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/en_en/7"
+file = "emotes/shiraishinana-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/8"
+file = "emotes/shiraishinana-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/10"
+file = "emotes/shiraishinana-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/11"
+file = "emotes/shiraishinana-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/12"
+file = "emotes/shiraishinana-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/en_en/888"
+file = "emotes/shiraishinana-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/927"
+file = "emotes/shiraishinana-927.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/944"
+file = "emotes/shiraishinana-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/962"
+file = "emotes/shiraishinana-962.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200018/common/994"
+file = "emotes/shiraishinana-994.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/en_en/0"
+file = "emotes/takanashihinata-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/1"
+file = "emotes/takanashihinata-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/en_en/2"
+file = "emotes/takanashihinata-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/en_en/3"
+file = "emotes/takanashihinata-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/en_en/4"
+file = "emotes/takanashihinata-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/5"
+file = "emotes/takanashihinata-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/6"
+file = "emotes/takanashihinata-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/7"
+file = "emotes/takanashihinata-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/8"
+file = "emotes/takanashihinata-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/10"
+file = "emotes/takanashihinata-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/11"
+file = "emotes/takanashihinata-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/12"
+file = "emotes/takanashihinata-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/888"
+file = "emotes/takanashihinata-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/938"
+file = "emotes/takanashihinata-938.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/949"
+file = "emotes/takanashihinata-949.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/972"
+file = "emotes/takanashihinata-972.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/981"
+file = "emotes/takanashihinata-981.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200019/common/986"
+file = "emotes/takanashihinata-986.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/0"
+file = "emotes/igarashiharuna-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/1"
+file = "emotes/igarashiharuna-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/en_en/2"
+file = "emotes/igarashiharuna-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/3"
+file = "emotes/igarashiharuna-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/4"
+file = "emotes/igarashiharuna-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/5"
+file = "emotes/igarashiharuna-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/6"
+file = "emotes/igarashiharuna-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/7"
+file = "emotes/igarashiharuna-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/8"
+file = "emotes/igarashiharuna-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/10"
+file = "emotes/igarashiharuna-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/11"
+file = "emotes/igarashiharuna-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/12"
+file = "emotes/igarashiharuna-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/888"
+file = "emotes/igarashiharuna-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/949"
+file = "emotes/igarashiharuna-949.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/967"
+file = "emotes/igarashiharuna-967.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/988"
+file = "emotes/igarashiharuna-988.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200020/common/994"
+file = "emotes/igarashiharuna-994.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/0"
+file = "emotes/suzumiyaanju-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/en_en/1"
+file = "emotes/suzumiyaanju-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/2"
+file = "emotes/suzumiyaanju-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/3"
+file = "emotes/suzumiyaanju-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/4"
+file = "emotes/suzumiyaanju-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/5"
+file = "emotes/suzumiyaanju-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/6"
+file = "emotes/suzumiyaanju-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/7"
+file = "emotes/suzumiyaanju-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/8"
+file = "emotes/suzumiyaanju-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/10"
+file = "emotes/suzumiyaanju-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/11"
+file = "emotes/suzumiyaanju-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/12"
+file = "emotes/suzumiyaanju-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/888"
+file = "emotes/suzumiyaanju-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/939"
+file = "emotes/suzumiyaanju-939.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/954"
+file = "emotes/suzumiyaanju-954.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/981"
+file = "emotes/suzumiyaanju-981.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200021/common/985"
+file = "emotes/suzumiyaanju-985.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/0"
+file = "emotes/joseph-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/1"
+file = "emotes/joseph-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/2"
+file = "emotes/joseph-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/3"
+file = "emotes/joseph-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/4"
+file = "emotes/joseph-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/5"
+file = "emotes/joseph-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/6"
+file = "emotes/joseph-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/7"
+file = "emotes/joseph-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/8"
+file = "emotes/joseph-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/10"
+file = "emotes/joseph-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/11"
+file = "emotes/joseph-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/12"
+file = "emotes/joseph-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/888"
+file = "emotes/joseph-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200022/common/991"
+file = "emotes/joseph-991.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/0"
+file = "emotes/saitouosamu-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/1"
+file = "emotes/saitouosamu-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/2"
+file = "emotes/saitouosamu-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/3"
+file = "emotes/saitouosamu-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/4"
+file = "emotes/saitouosamu-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/5"
+file = "emotes/saitouosamu-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/6"
+file = "emotes/saitouosamu-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/7"
+file = "emotes/saitouosamu-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/8"
+file = "emotes/saitouosamu-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/10"
+file = "emotes/saitouosamu-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/11"
+file = "emotes/saitouosamu-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/en_en/12"
+file = "emotes/saitouosamu-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/888"
+file = "emotes/saitouosamu-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/955"
+file = "emotes/saitouosamu-955.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200023/common/981"
+file = "emotes/saitouosamu-981.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/0"
+file = "emotes/kitamisawako-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/1"
+file = "emotes/kitamisawako-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/2"
+file = "emotes/kitamisawako-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/3"
+file = "emotes/kitamisawako-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/4"
+file = "emotes/kitamisawako-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/5"
+file = "emotes/kitamisawako-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/6"
+file = "emotes/kitamisawako-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/7"
+file = "emotes/kitamisawako-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/en_en/8"
+file = "emotes/kitamisawako-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/10"
+file = "emotes/kitamisawako-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/11"
+file = "emotes/kitamisawako-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/12"
+file = "emotes/kitamisawako-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/888"
+file = "emotes/kitamisawako-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/941"
+file = "emotes/kitamisawako-941.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/950"
+file = "emotes/kitamisawako-950.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/960"
+file = "emotes/kitamisawako-960.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/976"
+file = "emotes/kitamisawako-976.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200024/common/992"
+file = "emotes/kitamisawako-992.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/0"
+file = "emotes/ein-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/1"
+file = "emotes/ein-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/2"
+file = "emotes/ein-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/3"
+file = "emotes/ein-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/4"
+file = "emotes/ein-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/5"
+file = "emotes/ein-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/6"
+file = "emotes/ein-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/7"
+file = "emotes/ein-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/8"
+file = "emotes/ein-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/10"
+file = "emotes/ein-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/11"
+file = "emotes/ein-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/12"
+file = "emotes/ein-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/888"
+file = "emotes/ein-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/932"
+file = "emotes/ein-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/957"
+file = "emotes/ein-957.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200025/common/982"
+file = "emotes/ein-982.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/0"
+file = "emotes/hinamomo-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/en_en/1"
+file = "emotes/hinamomo-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/2"
+file = "emotes/hinamomo-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/3"
+file = "emotes/hinamomo-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/4"
+file = "emotes/hinamomo-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/5"
+file = "emotes/hinamomo-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/6"
+file = "emotes/hinamomo-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/7"
+file = "emotes/hinamomo-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/8"
+file = "emotes/hinamomo-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/10"
+file = "emotes/hinamomo-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/11"
+file = "emotes/hinamomo-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/12"
+file = "emotes/hinamomo-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/888"
+file = "emotes/hinamomo-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/936"
+file = "emotes/hinamomo-936.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/944"
+file = "emotes/hinamomo-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/973"
+file = "emotes/hinamomo-973.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/989"
+file = "emotes/hinamomo-989.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/en_en/0"
+file = "emotes/tsukimizan-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/1"
+file = "emotes/tsukimizan-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/2"
+file = "emotes/tsukimizan-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/3"
+file = "emotes/tsukimizan-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/en_en/4"
+file = "emotes/tsukimizan-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/5"
+file = "emotes/tsukimizan-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/6"
+file = "emotes/tsukimizan-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/7"
+file = "emotes/tsukimizan-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/8"
+file = "emotes/tsukimizan-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/10"
+file = "emotes/tsukimizan-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/11"
+file = "emotes/tsukimizan-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/12"
+file = "emotes/tsukimizan-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/888"
+file = "emotes/tsukimizan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/952"
+file = "emotes/tsukimizan-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/968"
+file = "emotes/tsukimizan-968.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200027/common/988"
+file = "emotes/tsukimizan-988.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/0"
+file = "emotes/fujimotokirara-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/1"
+file = "emotes/fujimotokirara-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/2"
+file = "emotes/fujimotokirara-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/3"
+file = "emotes/fujimotokirara-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/4"
+file = "emotes/fujimotokirara-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/5"
+file = "emotes/fujimotokirara-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/6"
+file = "emotes/fujimotokirara-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/7"
+file = "emotes/fujimotokirara-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/8"
+file = "emotes/fujimotokirara-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/10"
+file = "emotes/fujimotokirara-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/11"
+file = "emotes/fujimotokirara-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/12"
+file = "emotes/fujimotokirara-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/888"
+file = "emotes/fujimotokirara-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/937"
+file = "emotes/fujimotokirara-937.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/952"
+file = "emotes/fujimotokirara-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/971"
+file = "emotes/fujimotokirara-971.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200028/common/991"
+file = "emotes/fujimotokirara-991.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/0"
+file = "emotes/kaguyahime-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/1"
+file = "emotes/kaguyahime-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/2"
+file = "emotes/kaguyahime-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/3"
+file = "emotes/kaguyahime-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/4"
+file = "emotes/kaguyahime-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/5"
+file = "emotes/kaguyahime-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/en_en/6"
+file = "emotes/kaguyahime-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/7"
+file = "emotes/kaguyahime-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/8"
+file = "emotes/kaguyahime-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/10"
+file = "emotes/kaguyahime-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/11"
+file = "emotes/kaguyahime-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/12"
+file = "emotes/kaguyahime-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/888"
+file = "emotes/kaguyahime-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/933"
+file = "emotes/kaguyahime-933.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/942"
+file = "emotes/kaguyahime-942.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/964"
+file = "emotes/kaguyahime-964.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/976"
+file = "emotes/kaguyahime-976.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200029/common/992"
+file = "emotes/kaguyahime-992.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/0"
+file = "emotes/kisaragiren-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/1"
+file = "emotes/kisaragiren-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/2"
+file = "emotes/kisaragiren-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/3"
+file = "emotes/kisaragiren-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/4"
+file = "emotes/kisaragiren-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/5"
+file = "emotes/kisaragiren-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/6"
+file = "emotes/kisaragiren-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/7"
+file = "emotes/kisaragiren-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/8"
+file = "emotes/kisaragiren-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/10"
+file = "emotes/kisaragiren-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/en_en/11"
+file = "emotes/kisaragiren-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/12"
+file = "emotes/kisaragiren-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/888"
+file = "emotes/kisaragiren-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/955"
+file = "emotes/kisaragiren-955.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200030/common/979"
+file = "emotes/kisaragiren-979.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/0"
+file = "emotes/ishiharausumi-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/1"
+file = "emotes/ishiharausumi-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/en_en/2"
+file = "emotes/ishiharausumi-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/3"
+file = "emotes/ishiharausumi-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/4"
+file = "emotes/ishiharausumi-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/5"
+file = "emotes/ishiharausumi-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/6"
+file = "emotes/ishiharausumi-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/7"
+file = "emotes/ishiharausumi-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/8"
+file = "emotes/ishiharausumi-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/10"
+file = "emotes/ishiharausumi-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/11"
+file = "emotes/ishiharausumi-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/12"
+file = "emotes/ishiharausumi-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/888"
+file = "emotes/ishiharausumi-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/959"
+file = "emotes/ishiharausumi-959.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200031/common/978"
+file = "emotes/ishiharausumi-978.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/en_en/0"
+file = "emotes/eliisa-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/1"
+file = "emotes/eliisa-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/2"
+file = "emotes/eliisa-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/3"
+file = "emotes/eliisa-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/4"
+file = "emotes/eliisa-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/5"
+file = "emotes/eliisa-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/6"
+file = "emotes/eliisa-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/7"
+file = "emotes/eliisa-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/8"
+file = "emotes/eliisa-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/10"
+file = "emotes/eliisa-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/11"
+file = "emotes/eliisa-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/12"
+file = "emotes/eliisa-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/888"
+file = "emotes/eliisa-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/932"
+file = "emotes/eliisa-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/950"
+file = "emotes/eliisa-950.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/957"
+file = "emotes/eliisa-957.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/976"
+file = "emotes/eliisa-976.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200032/common/985"
+file = "emotes/eliisa-985.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/0"
+file = "emotes/terasakichihori-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/1"
+file = "emotes/terasakichihori-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/2"
+file = "emotes/terasakichihori-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/3"
+file = "emotes/terasakichihori-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/4"
+file = "emotes/terasakichihori-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/5"
+file = "emotes/terasakichihori-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/6"
+file = "emotes/terasakichihori-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/en_en/7"
+file = "emotes/terasakichihori-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/8"
+file = "emotes/terasakichihori-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/10"
+file = "emotes/terasakichihori-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/11"
+file = "emotes/terasakichihori-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/12"
+file = "emotes/terasakichihori-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/888"
+file = "emotes/terasakichihori-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/929"
+file = "emotes/terasakichihori-929.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/948"
+file = "emotes/terasakichihori-948.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200033/common/969"
+file = "emotes/terasakichihori-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/0"
+file = "emotes/miyanagasaki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/en_en/1"
+file = "emotes/miyanagasaki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/2"
+file = "emotes/miyanagasaki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/3"
+file = "emotes/miyanagasaki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/4"
+file = "emotes/miyanagasaki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/5"
+file = "emotes/miyanagasaki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/6"
+file = "emotes/miyanagasaki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/7"
+file = "emotes/miyanagasaki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/8"
+file = "emotes/miyanagasaki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/10"
+file = "emotes/miyanagasaki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/en_en/11"
+file = "emotes/miyanagasaki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/12"
+file = "emotes/miyanagasaki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/969"
+file = "emotes/miyanagasaki-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200034/common/990"
+file = "emotes/miyanagasaki-990.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/0"
+file = "emotes/haramuranodoka-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/1"
+file = "emotes/haramuranodoka-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/2"
+file = "emotes/haramuranodoka-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/3"
+file = "emotes/haramuranodoka-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/4"
+file = "emotes/haramuranodoka-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/5"
+file = "emotes/haramuranodoka-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/6"
+file = "emotes/haramuranodoka-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/7"
+file = "emotes/haramuranodoka-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/8"
+file = "emotes/haramuranodoka-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/10"
+file = "emotes/haramuranodoka-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/en_en/11"
+file = "emotes/haramuranodoka-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/12"
+file = "emotes/haramuranodoka-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/969"
+file = "emotes/haramuranodoka-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200035/common/990"
+file = "emotes/haramuranodoka-990.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/0"
+file = "emotes/amaekoromo-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/1"
+file = "emotes/amaekoromo-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/2"
+file = "emotes/amaekoromo-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/3"
+file = "emotes/amaekoromo-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/en_en/4"
+file = "emotes/amaekoromo-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/5"
+file = "emotes/amaekoromo-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/6"
+file = "emotes/amaekoromo-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/7"
+file = "emotes/amaekoromo-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/en_en/8"
+file = "emotes/amaekoromo-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/10"
+file = "emotes/amaekoromo-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/11"
+file = "emotes/amaekoromo-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/12"
+file = "emotes/amaekoromo-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/969"
+file = "emotes/amaekoromo-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200036/common/990"
+file = "emotes/amaekoromo-990.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/0"
+file = "emotes/miyanagateru-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/1"
+file = "emotes/miyanagateru-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/2"
+file = "emotes/miyanagateru-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/3"
+file = "emotes/miyanagateru-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/4"
+file = "emotes/miyanagateru-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/5"
+file = "emotes/miyanagateru-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/6"
+file = "emotes/miyanagateru-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/en_en/7"
+file = "emotes/miyanagateru-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/8"
+file = "emotes/miyanagateru-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/10"
+file = "emotes/miyanagateru-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/11"
+file = "emotes/miyanagateru-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/12"
+file = "emotes/miyanagateru-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/969"
+file = "emotes/miyanagateru-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200037/common/990"
+file = "emotes/miyanagateru-990.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/0"
+file = "emotes/fuji-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/1"
+file = "emotes/fuji-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/2"
+file = "emotes/fuji-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/3"
+file = "emotes/fuji-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/en_en/4"
+file = "emotes/fuji-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/5"
+file = "emotes/fuji-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/en_en/6"
+file = "emotes/fuji-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/7"
+file = "emotes/fuji-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/8"
+file = "emotes/fuji-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/10"
+file = "emotes/fuji-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/11"
+file = "emotes/fuji-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/12"
+file = "emotes/fuji-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/en_en/888"
+file = "emotes/fuji-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/930"
+file = "emotes/fuji-930.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/947"
+file = "emotes/fuji-947.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/959"
+file = "emotes/fuji-959.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/967"
+file = "emotes/fuji-967.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200038/common/974"
+file = "emotes/fuji-974.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/0"
+file = "emotes/qixi-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/1"
+file = "emotes/qixi-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/2"
+file = "emotes/qixi-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/3"
+file = "emotes/qixi-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/4"
+file = "emotes/qixi-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/5"
+file = "emotes/qixi-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/6"
+file = "emotes/qixi-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/7"
+file = "emotes/qixi-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/8"
+file = "emotes/qixi-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/10"
+file = "emotes/qixi-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/11"
+file = "emotes/qixi-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/12"
+file = "emotes/qixi-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/888"
+file = "emotes/qixi-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/932"
+file = "emotes/qixi-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/961"
+file = "emotes/qixi-961.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200039/common/970"
+file = "emotes/qixi-970.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/0"
+file = "emotes/jabamiyumeko-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/1"
+file = "emotes/jabamiyumeko-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/2"
+file = "emotes/jabamiyumeko-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/3"
+file = "emotes/jabamiyumeko-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/4"
+file = "emotes/jabamiyumeko-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/5"
+file = "emotes/jabamiyumeko-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/6"
+file = "emotes/jabamiyumeko-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/7"
+file = "emotes/jabamiyumeko-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/8"
+file = "emotes/jabamiyumeko-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/10"
+file = "emotes/jabamiyumeko-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/11"
+file = "emotes/jabamiyumeko-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/12"
+file = "emotes/jabamiyumeko-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200040/common/987"
+file = "emotes/jabamiyumeko-987.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/0"
+file = "emotes/saotomemary-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/1"
+file = "emotes/saotomemary-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/2"
+file = "emotes/saotomemary-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/3"
+file = "emotes/saotomemary-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/4"
+file = "emotes/saotomemary-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/5"
+file = "emotes/saotomemary-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/6"
+file = "emotes/saotomemary-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/7"
+file = "emotes/saotomemary-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/8"
+file = "emotes/saotomemary-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/10"
+file = "emotes/saotomemary-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/11"
+file = "emotes/saotomemary-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/12"
+file = "emotes/saotomemary-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200041/common/987"
+file = "emotes/saotomemary-987.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/0"
+file = "emotes/ikishimamidari-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/1"
+file = "emotes/ikishimamidari-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/2"
+file = "emotes/ikishimamidari-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/3"
+file = "emotes/ikishimamidari-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/4"
+file = "emotes/ikishimamidari-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/5"
+file = "emotes/ikishimamidari-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/6"
+file = "emotes/ikishimamidari-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/7"
+file = "emotes/ikishimamidari-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/8"
+file = "emotes/ikishimamidari-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/10"
+file = "emotes/ikishimamidari-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/11"
+file = "emotes/ikishimamidari-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/12"
+file = "emotes/ikishimamidari-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200042/common/987"
+file = "emotes/ikishimamidari-987.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/0"
+file = "emotes/momobamikirari-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/1"
+file = "emotes/momobamikirari-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/2"
+file = "emotes/momobamikirari-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/3"
+file = "emotes/momobamikirari-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/4"
+file = "emotes/momobamikirari-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/5"
+file = "emotes/momobamikirari-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/6"
+file = "emotes/momobamikirari-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/7"
+file = "emotes/momobamikirari-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/8"
+file = "emotes/momobamikirari-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/10"
+file = "emotes/momobamikirari-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/11"
+file = "emotes/momobamikirari-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/12"
+file = "emotes/momobamikirari-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200043/common/987"
+file = "emotes/momobamikirari-987.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/0"
+file = "emotes/nanamireina-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/1"
+file = "emotes/nanamireina-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/2"
+file = "emotes/nanamireina-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/en_en/3"
+file = "emotes/nanamireina-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/4"
+file = "emotes/nanamireina-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/5"
+file = "emotes/nanamireina-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/en_en/6"
+file = "emotes/nanamireina-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/7"
+file = "emotes/nanamireina-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/8"
+file = "emotes/nanamireina-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/10"
+file = "emotes/nanamireina-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/11"
+file = "emotes/nanamireina-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/12"
+file = "emotes/nanamireina-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/888"
+file = "emotes/nanamireina-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/944"
+file = "emotes/nanamireina-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/960"
+file = "emotes/nanamireina-960.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/978"
+file = "emotes/nanamireina-978.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/0"
+file = "emotes/a37-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/1"
+file = "emotes/a37-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/2"
+file = "emotes/a37-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/3"
+file = "emotes/a37-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/4"
+file = "emotes/a37-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/5"
+file = "emotes/a37-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/6"
+file = "emotes/a37-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/en_en/7"
+file = "emotes/a37-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/8"
+file = "emotes/a37-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/10"
+file = "emotes/a37-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/en_en/11"
+file = "emotes/a37-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/12"
+file = "emotes/a37-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/888"
+file = "emotes/a37-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/946"
+file = "emotes/a37-946.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/973"
+file = "emotes/a37-973.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200045/common/981"
+file = "emotes/a37-981.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/0"
+file = "emotes/himekawahibiki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/1"
+file = "emotes/himekawahibiki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/2"
+file = "emotes/himekawahibiki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/3"
+file = "emotes/himekawahibiki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/4"
+file = "emotes/himekawahibiki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/5"
+file = "emotes/himekawahibiki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/6"
+file = "emotes/himekawahibiki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/7"
+file = "emotes/himekawahibiki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/8"
+file = "emotes/himekawahibiki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/10"
+file = "emotes/himekawahibiki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/en_en/11"
+file = "emotes/himekawahibiki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/12"
+file = "emotes/himekawahibiki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/888"
+file = "emotes/himekawahibiki-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/951"
+file = "emotes/himekawahibiki-951.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200046/common/967"
+file = "emotes/himekawahibiki-967.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/0"
+file = "emotes/ryan-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/1"
+file = "emotes/ryan-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/2"
+file = "emotes/ryan-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/3"
+file = "emotes/ryan-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/en_en/4"
+file = "emotes/ryan-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/5"
+file = "emotes/ryan-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/6"
+file = "emotes/ryan-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/7"
+file = "emotes/ryan-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/8"
+file = "emotes/ryan-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/10"
+file = "emotes/ryan-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/11"
+file = "emotes/ryan-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/12"
+file = "emotes/ryan-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/888"
+file = "emotes/ryan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/957"
+file = "emotes/ryan-957.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/967"
+file = "emotes/ryan-967.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/0"
+file = "emotes/morikawaayako-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/1"
+file = "emotes/morikawaayako-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/2"
+file = "emotes/morikawaayako-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/3"
+file = "emotes/morikawaayako-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/4"
+file = "emotes/morikawaayako-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/5"
+file = "emotes/morikawaayako-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/6"
+file = "emotes/morikawaayako-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/7"
+file = "emotes/morikawaayako-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/8"
+file = "emotes/morikawaayako-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/10"
+file = "emotes/morikawaayako-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/11"
+file = "emotes/morikawaayako-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/12"
+file = "emotes/morikawaayako-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/888"
+file = "emotes/morikawaayako-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/932"
+file = "emotes/morikawaayako-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/946"
+file = "emotes/morikawaayako-946.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/965"
+file = "emotes/morikawaayako-965.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200048/common/971"
+file = "emotes/morikawaayako-971.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/0"
+file = "emotes/takigawanatsuhiko-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/1"
+file = "emotes/takigawanatsuhiko-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/2"
+file = "emotes/takigawanatsuhiko-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/3"
+file = "emotes/takigawanatsuhiko-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/4"
+file = "emotes/takigawanatsuhiko-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/5"
+file = "emotes/takigawanatsuhiko-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/6"
+file = "emotes/takigawanatsuhiko-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/7"
+file = "emotes/takigawanatsuhiko-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/8"
+file = "emotes/takigawanatsuhiko-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/10"
+file = "emotes/takigawanatsuhiko-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/11"
+file = "emotes/takigawanatsuhiko-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/12"
+file = "emotes/takigawanatsuhiko-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/888"
+file = "emotes/takigawanatsuhiko-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/933"
+file = "emotes/takigawanatsuhiko-933.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/954"
+file = "emotes/takigawanatsuhiko-954.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200049/common/964"
+file = "emotes/takigawanatsuhiko-964.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/en_en/0"
+file = "emotes/akagishigeru-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/1"
+file = "emotes/akagishigeru-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/2"
+file = "emotes/akagishigeru-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/3"
+file = "emotes/akagishigeru-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/4"
+file = "emotes/akagishigeru-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/5"
+file = "emotes/akagishigeru-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/6"
+file = "emotes/akagishigeru-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/7"
+file = "emotes/akagishigeru-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/8"
+file = "emotes/akagishigeru-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/en_en/10"
+file = "emotes/akagishigeru-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/11"
+file = "emotes/akagishigeru-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/12"
+file = "emotes/akagishigeru-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/926"
+file = "emotes/akagishigeru-926.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200050/common/980"
+file = "emotes/akagishigeru-980.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/0"
+file = "emotes/washizuiwao-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/1"
+file = "emotes/washizuiwao-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/2"
+file = "emotes/washizuiwao-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/3"
+file = "emotes/washizuiwao-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/4"
+file = "emotes/washizuiwao-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/5"
+file = "emotes/washizuiwao-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/6"
+file = "emotes/washizuiwao-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/7"
+file = "emotes/washizuiwao-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/8"
+file = "emotes/washizuiwao-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/en_en/10"
+file = "emotes/washizuiwao-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/11"
+file = "emotes/washizuiwao-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/12"
+file = "emotes/washizuiwao-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/926"
+file = "emotes/washizuiwao-926.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200051/common/980"
+file = "emotes/washizuiwao-980.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/0"
+file = "emotes/saionjikazuha-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/1"
+file = "emotes/saionjikazuha-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/2"
+file = "emotes/saionjikazuha-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/en_en/3"
+file = "emotes/saionjikazuha-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/en_en/4"
+file = "emotes/saionjikazuha-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/5"
+file = "emotes/saionjikazuha-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/6"
+file = "emotes/saionjikazuha-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/7"
+file = "emotes/saionjikazuha-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/8"
+file = "emotes/saionjikazuha-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/10"
+file = "emotes/saionjikazuha-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/11"
+file = "emotes/saionjikazuha-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/12"
+file = "emotes/saionjikazuha-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200052/common/888"
+file = "emotes/saionjikazuha-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/0"
+file = "emotes/onoderananaha-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/1"
+file = "emotes/onoderananaha-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/2"
+file = "emotes/onoderananaha-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/3"
+file = "emotes/onoderananaha-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/4"
+file = "emotes/onoderananaha-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/5"
+file = "emotes/onoderananaha-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/6"
+file = "emotes/onoderananaha-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/7"
+file = "emotes/onoderananaha-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/8"
+file = "emotes/onoderananaha-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/10"
+file = "emotes/onoderananaha-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/en_en/11"
+file = "emotes/onoderananaha-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/12"
+file = "emotes/onoderananaha-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/888"
+file = "emotes/onoderananaha-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/936"
+file = "emotes/onoderananaha-936.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200053/common/958"
+file = "emotes/onoderananaha-958.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/0"
+file = "emotes/sammir-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/1"
+file = "emotes/sammir-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/2"
+file = "emotes/sammir-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/3"
+file = "emotes/sammir-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/4"
+file = "emotes/sammir-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/5"
+file = "emotes/sammir-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/6"
+file = "emotes/sammir-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/7"
+file = "emotes/sammir-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/8"
+file = "emotes/sammir-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/10"
+file = "emotes/sammir-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/11"
+file = "emotes/sammir-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/12"
+file = "emotes/sammir-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/888"
+file = "emotes/sammir-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/938"
+file = "emotes/sammir-938.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/953"
+file = "emotes/sammir-953.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200054/common/974"
+file = "emotes/sammir-974.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/0"
+file = "emotes/shinomiyakaguya-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/1"
+file = "emotes/shinomiyakaguya-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/2"
+file = "emotes/shinomiyakaguya-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/3"
+file = "emotes/shinomiyakaguya-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/4"
+file = "emotes/shinomiyakaguya-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/5"
+file = "emotes/shinomiyakaguya-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/6"
+file = "emotes/shinomiyakaguya-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/7"
+file = "emotes/shinomiyakaguya-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/8"
+file = "emotes/shinomiyakaguya-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/10"
+file = "emotes/shinomiyakaguya-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/11"
+file = "emotes/shinomiyakaguya-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/12"
+file = "emotes/shinomiyakaguya-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200055/common/975"
+file = "emotes/shinomiyakaguya-975.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/0"
+file = "emotes/shiroganemiyuki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/1"
+file = "emotes/shiroganemiyuki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/2"
+file = "emotes/shiroganemiyuki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/3"
+file = "emotes/shiroganemiyuki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/4"
+file = "emotes/shiroganemiyuki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/5"
+file = "emotes/shiroganemiyuki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/6"
+file = "emotes/shiroganemiyuki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/7"
+file = "emotes/shiroganemiyuki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/8"
+file = "emotes/shiroganemiyuki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/10"
+file = "emotes/shiroganemiyuki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/11"
+file = "emotes/shiroganemiyuki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/12"
+file = "emotes/shiroganemiyuki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200056/common/975"
+file = "emotes/shiroganemiyuki-975.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/0"
+file = "emotes/hayasakaai-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/1"
+file = "emotes/hayasakaai-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/2"
+file = "emotes/hayasakaai-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/3"
+file = "emotes/hayasakaai-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/4"
+file = "emotes/hayasakaai-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/5"
+file = "emotes/hayasakaai-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/6"
+file = "emotes/hayasakaai-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/7"
+file = "emotes/hayasakaai-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/8"
+file = "emotes/hayasakaai-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/10"
+file = "emotes/hayasakaai-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/11"
+file = "emotes/hayasakaai-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/12"
+file = "emotes/hayasakaai-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200057/common/975"
+file = "emotes/hayasakaai-975.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/0"
+file = "emotes/shiroganekei-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/en_en/1"
+file = "emotes/shiroganekei-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/2"
+file = "emotes/shiroganekei-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/3"
+file = "emotes/shiroganekei-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/4"
+file = "emotes/shiroganekei-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/5"
+file = "emotes/shiroganekei-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/6"
+file = "emotes/shiroganekei-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/7"
+file = "emotes/shiroganekei-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/8"
+file = "emotes/shiroganekei-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/10"
+file = "emotes/shiroganekei-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/en_en/11"
+file = "emotes/shiroganekei-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/12"
+file = "emotes/shiroganekei-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200058/common/975"
+file = "emotes/shiroganekei-975.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/0"
+file = "emotes/yuzu-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/1"
+file = "emotes/yuzu-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/2"
+file = "emotes/yuzu-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/3"
+file = "emotes/yuzu-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/4"
+file = "emotes/yuzu-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/5"
+file = "emotes/yuzu-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/6"
+file = "emotes/yuzu-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/7"
+file = "emotes/yuzu-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/8"
+file = "emotes/yuzu-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/10"
+file = "emotes/yuzu-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/11"
+file = "emotes/yuzu-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/12"
+file = "emotes/yuzu-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/888"
+file = "emotes/yuzu-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/939"
+file = "emotes/yuzu-939.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/948"
+file = "emotes/yuzu-948.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/955"
+file = "emotes/yuzu-955.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200059/common/960"
+file = "emotes/yuzu-960.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/0"
+file = "emotes/zechs-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/1"
+file = "emotes/zechs-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/2"
+file = "emotes/zechs-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/3"
+file = "emotes/zechs-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/4"
+file = "emotes/zechs-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/5"
+file = "emotes/zechs-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/6"
+file = "emotes/zechs-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/7"
+file = "emotes/zechs-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/8"
+file = "emotes/zechs-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/10"
+file = "emotes/zechs-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/11"
+file = "emotes/zechs-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/en_en/12"
+file = "emotes/zechs-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/888"
+file = "emotes/zechs-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/943"
+file = "emotes/zechs-943.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200060/common/958"
+file = "emotes/zechs-958.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/0"
+file = "emotes/lilykitahara-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/1"
+file = "emotes/lilykitahara-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/2"
+file = "emotes/lilykitahara-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/3"
+file = "emotes/lilykitahara-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/4"
+file = "emotes/lilykitahara-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/5"
+file = "emotes/lilykitahara-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/6"
+file = "emotes/lilykitahara-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/7"
+file = "emotes/lilykitahara-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/8"
+file = "emotes/lilykitahara-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/10"
+file = "emotes/lilykitahara-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/11"
+file = "emotes/lilykitahara-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/12"
+file = "emotes/lilykitahara-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200061/common/888"
+file = "emotes/lilykitahara-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/0"
+file = "emotes/takeihisa-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/1"
+file = "emotes/takeihisa-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/2"
+file = "emotes/takeihisa-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/3"
+file = "emotes/takeihisa-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/4"
+file = "emotes/takeihisa-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/5"
+file = "emotes/takeihisa-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/6"
+file = "emotes/takeihisa-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/7"
+file = "emotes/takeihisa-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/8"
+file = "emotes/takeihisa-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/10"
+file = "emotes/takeihisa-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/11"
+file = "emotes/takeihisa-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/12"
+file = "emotes/takeihisa-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200062/common/969"
+file = "emotes/takeihisa-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/0"
+file = "emotes/fukujimihoko-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/1"
+file = "emotes/fukujimihoko-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/2"
+file = "emotes/fukujimihoko-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/3"
+file = "emotes/fukujimihoko-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/4"
+file = "emotes/fukujimihoko-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/5"
+file = "emotes/fukujimihoko-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/6"
+file = "emotes/fukujimihoko-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/7"
+file = "emotes/fukujimihoko-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/8"
+file = "emotes/fukujimihoko-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/10"
+file = "emotes/fukujimihoko-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/11"
+file = "emotes/fukujimihoko-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/12"
+file = "emotes/fukujimihoko-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200063/common/969"
+file = "emotes/fukujimihoko-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/0"
+file = "emotes/atarashiako-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/1"
+file = "emotes/atarashiako-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/2"
+file = "emotes/atarashiako-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/3"
+file = "emotes/atarashiako-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/4"
+file = "emotes/atarashiako-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/5"
+file = "emotes/atarashiako-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/6"
+file = "emotes/atarashiako-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/7"
+file = "emotes/atarashiako-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/8"
+file = "emotes/atarashiako-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/10"
+file = "emotes/atarashiako-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/11"
+file = "emotes/atarashiako-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/12"
+file = "emotes/atarashiako-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200064/common/969"
+file = "emotes/atarashiako-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/0"
+file = "emotes/onjojitoki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/1"
+file = "emotes/onjojitoki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/2"
+file = "emotes/onjojitoki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/3"
+file = "emotes/onjojitoki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/4"
+file = "emotes/onjojitoki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/5"
+file = "emotes/onjojitoki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/6"
+file = "emotes/onjojitoki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/en_en/7"
+file = "emotes/onjojitoki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/8"
+file = "emotes/onjojitoki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/10"
+file = "emotes/onjojitoki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/11"
+file = "emotes/onjojitoki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/12"
+file = "emotes/onjojitoki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200065/common/969"
+file = "emotes/onjojitoki-969.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/0"
+file = "emotes/fuyumishinomiya-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/1"
+file = "emotes/fuyumishinomiya-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/2"
+file = "emotes/fuyumishinomiya-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/3"
+file = "emotes/fuyumishinomiya-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/4"
+file = "emotes/fuyumishinomiya-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/5"
+file = "emotes/fuyumishinomiya-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/6"
+file = "emotes/fuyumishinomiya-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/7"
+file = "emotes/fuyumishinomiya-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/8"
+file = "emotes/fuyumishinomiya-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/en_en/10"
+file = "emotes/fuyumishinomiya-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/11"
+file = "emotes/fuyumishinomiya-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/12"
+file = "emotes/fuyumishinomiya-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/888"
+file = "emotes/fuyumishinomiya-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/927"
+file = "emotes/fuyumishinomiya-927.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/951"
+file = "emotes/fuyumishinomiya-951.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/955"
+file = "emotes/fuyumishinomiya-955.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200066/common/962"
+file = "emotes/fuyumishinomiya-962.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/0"
+file = "emotes/qingluan-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/1"
+file = "emotes/qingluan-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/2"
+file = "emotes/qingluan-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/3"
+file = "emotes/qingluan-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/4"
+file = "emotes/qingluan-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/5"
+file = "emotes/qingluan-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/6"
+file = "emotes/qingluan-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/7"
+file = "emotes/qingluan-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/8"
+file = "emotes/qingluan-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/10"
+file = "emotes/qingluan-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/11"
+file = "emotes/qingluan-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/12"
+file = "emotes/qingluan-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/888"
+file = "emotes/qingluan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/936"
+file = "emotes/qingluan-936.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200067/common/954"
+file = "emotes/qingluan-954.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/0"
+file = "emotes/kisaragiayane-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/1"
+file = "emotes/kisaragiayane-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/2"
+file = "emotes/kisaragiayane-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/3"
+file = "emotes/kisaragiayane-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/en_en/4"
+file = "emotes/kisaragiayane-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/5"
+file = "emotes/kisaragiayane-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/6"
+file = "emotes/kisaragiayane-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/7"
+file = "emotes/kisaragiayane-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/8"
+file = "emotes/kisaragiayane-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/10"
+file = "emotes/kisaragiayane-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/11"
+file = "emotes/kisaragiayane-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/12"
+file = "emotes/kisaragiayane-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/888"
+file = "emotes/kisaragiayane-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/944"
+file = "emotes/kisaragiayane-944.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/955"
+file = "emotes/kisaragiayane-955.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/0"
+file = "emotes/mirai-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/1"
+file = "emotes/mirai-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/2"
+file = "emotes/mirai-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/3"
+file = "emotes/mirai-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/4"
+file = "emotes/mirai-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/5"
+file = "emotes/mirai-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/6"
+file = "emotes/mirai-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/7"
+file = "emotes/mirai-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/8"
+file = "emotes/mirai-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/10"
+file = "emotes/mirai-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/11"
+file = "emotes/mirai-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/12"
+file = "emotes/mirai-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/888"
+file = "emotes/mirai-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/939"
+file = "emotes/mirai-939.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200069/common/953"
+file = "emotes/mirai-953.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/0"
+file = "emotes/lamperougelelouch-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/1"
+file = "emotes/lamperougelelouch-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/2"
+file = "emotes/lamperougelelouch-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/3"
+file = "emotes/lamperougelelouch-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/4"
+file = "emotes/lamperougelelouch-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/5"
+file = "emotes/lamperougelelouch-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/6"
+file = "emotes/lamperougelelouch-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/7"
+file = "emotes/lamperougelelouch-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/8"
+file = "emotes/lamperougelelouch-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/10"
+file = "emotes/lamperougelelouch-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/11"
+file = "emotes/lamperougelelouch-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/12"
+file = "emotes/lamperougelelouch-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200070/common/963"
+file = "emotes/lamperougelelouch-963.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/0"
+file = "emotes/cc-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/1"
+file = "emotes/cc-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/2"
+file = "emotes/cc-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/3"
+file = "emotes/cc-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/4"
+file = "emotes/cc-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/5"
+file = "emotes/cc-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/6"
+file = "emotes/cc-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/7"
+file = "emotes/cc-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/8"
+file = "emotes/cc-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/10"
+file = "emotes/cc-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/11"
+file = "emotes/cc-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/12"
+file = "emotes/cc-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200071/common/963"
+file = "emotes/cc-963.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/0"
+file = "emotes/kururugisuzaku-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/1"
+file = "emotes/kururugisuzaku-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/2"
+file = "emotes/kururugisuzaku-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/3"
+file = "emotes/kururugisuzaku-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/4"
+file = "emotes/kururugisuzaku-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/5"
+file = "emotes/kururugisuzaku-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/6"
+file = "emotes/kururugisuzaku-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/7"
+file = "emotes/kururugisuzaku-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/8"
+file = "emotes/kururugisuzaku-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/10"
+file = "emotes/kururugisuzaku-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/11"
+file = "emotes/kururugisuzaku-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/12"
+file = "emotes/kururugisuzaku-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200072/common/963"
+file = "emotes/kururugisuzaku-963.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/0"
+file = "emotes/kouzukikallen-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/1"
+file = "emotes/kouzukikallen-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/2"
+file = "emotes/kouzukikallen-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/3"
+file = "emotes/kouzukikallen-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/4"
+file = "emotes/kouzukikallen-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/5"
+file = "emotes/kouzukikallen-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/6"
+file = "emotes/kouzukikallen-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/7"
+file = "emotes/kouzukikallen-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/8"
+file = "emotes/kouzukikallen-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/10"
+file = "emotes/kouzukikallen-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/11"
+file = "emotes/kouzukikallen-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/12"
+file = "emotes/kouzukikallen-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200073/common/963"
+file = "emotes/kouzukikallen-963.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/0"
+file = "emotes/ransei-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/1"
+file = "emotes/ransei-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/2"
+file = "emotes/ransei-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/3"
+file = "emotes/ransei-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/4"
+file = "emotes/ransei-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/5"
+file = "emotes/ransei-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/6"
+file = "emotes/ransei-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/7"
+file = "emotes/ransei-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/8"
+file = "emotes/ransei-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/10"
+file = "emotes/ransei-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/11"
+file = "emotes/ransei-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/12"
+file = "emotes/ransei-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/888"
+file = "emotes/ransei-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/933"
+file = "emotes/ransei-933.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200074/common/946"
+file = "emotes/ransei-946.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/0"
+file = "emotes/ling-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/1"
+file = "emotes/ling-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/2"
+file = "emotes/ling-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/3"
+file = "emotes/ling-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/en_en/4"
+file = "emotes/ling-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/5"
+file = "emotes/ling-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/6"
+file = "emotes/ling-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/7"
+file = "emotes/ling-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/8"
+file = "emotes/ling-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/10"
+file = "emotes/ling-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/11"
+file = "emotes/ling-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/12"
+file = "emotes/ling-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/888"
+file = "emotes/ling-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/935"
+file = "emotes/ling-935.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200075/common/948"
+file = "emotes/ling-948.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/0"
+file = "emotes/toujoukurone-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/1"
+file = "emotes/toujoukurone-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/2"
+file = "emotes/toujoukurone-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/3"
+file = "emotes/toujoukurone-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/4"
+file = "emotes/toujoukurone-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/5"
+file = "emotes/toujoukurone-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/6"
+file = "emotes/toujoukurone-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/7"
+file = "emotes/toujoukurone-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/8"
+file = "emotes/toujoukurone-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/10"
+file = "emotes/toujoukurone-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/11"
+file = "emotes/toujoukurone-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/12"
+file = "emotes/toujoukurone-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200076/common/888"
+file = "emotes/toujoukurone-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/0"
+file = "emotes/hannah-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/1"
+file = "emotes/hannah-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/2"
+file = "emotes/hannah-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/3"
+file = "emotes/hannah-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/4"
+file = "emotes/hannah-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/5"
+file = "emotes/hannah-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/6"
+file = "emotes/hannah-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/7"
+file = "emotes/hannah-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/8"
+file = "emotes/hannah-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/10"
+file = "emotes/hannah-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/11"
+file = "emotes/hannah-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/12"
+file = "emotes/hannah-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/888"
+file = "emotes/hannah-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200077/common/953"
+file = "emotes/hannah-953.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/0"
+file = "emotes/musa-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/1"
+file = "emotes/musa-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/2"
+file = "emotes/musa-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/3"
+file = "emotes/musa-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/4"
+file = "emotes/musa-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/5"
+file = "emotes/musa-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/6"
+file = "emotes/musa-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/7"
+file = "emotes/musa-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/8"
+file = "emotes/musa-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/10"
+file = "emotes/musa-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/11"
+file = "emotes/musa-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/12"
+file = "emotes/musa-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/888"
+file = "emotes/musa-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/0"
+file = "emotes/illya-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/1"
+file = "emotes/illya-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/2"
+file = "emotes/illya-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/3"
+file = "emotes/illya-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/4"
+file = "emotes/illya-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/5"
+file = "emotes/illya-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/6"
+file = "emotes/illya-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/7"
+file = "emotes/illya-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/8"
+file = "emotes/illya-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/10"
+file = "emotes/illya-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/11"
+file = "emotes/illya-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/12"
+file = "emotes/illya-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200079/common/956"
+file = "emotes/illya-956.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/0"
+file = "emotes/miyu-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/1"
+file = "emotes/miyu-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/2"
+file = "emotes/miyu-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/3"
+file = "emotes/miyu-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/4"
+file = "emotes/miyu-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/5"
+file = "emotes/miyu-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/6"
+file = "emotes/miyu-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/7"
+file = "emotes/miyu-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/8"
+file = "emotes/miyu-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/10"
+file = "emotes/miyu-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/11"
+file = "emotes/miyu-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/12"
+file = "emotes/miyu-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200080/common/956"
+file = "emotes/miyu-956.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/0"
+file = "emotes/kuro-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/1"
+file = "emotes/kuro-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/2"
+file = "emotes/kuro-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/3"
+file = "emotes/kuro-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/4"
+file = "emotes/kuro-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/5"
+file = "emotes/kuro-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/6"
+file = "emotes/kuro-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/7"
+file = "emotes/kuro-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/8"
+file = "emotes/kuro-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/10"
+file = "emotes/kuro-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/11"
+file = "emotes/kuro-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/12"
+file = "emotes/kuro-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200081/common/956"
+file = "emotes/kuro-956.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/0"
+file = "emotes/gil-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/1"
+file = "emotes/gil-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/2"
+file = "emotes/gil-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/3"
+file = "emotes/gil-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/4"
+file = "emotes/gil-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/5"
+file = "emotes/gil-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/6"
+file = "emotes/gil-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/7"
+file = "emotes/gil-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/8"
+file = "emotes/gil-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/10"
+file = "emotes/gil-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/11"
+file = "emotes/gil-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/12"
+file = "emotes/gil-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200082/common/956"
+file = "emotes/gil-956.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/0"
+file = "emotes/kristeve-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/1"
+file = "emotes/kristeve-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/2"
+file = "emotes/kristeve-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/3"
+file = "emotes/kristeve-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/4"
+file = "emotes/kristeve-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/5"
+file = "emotes/kristeve-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/6"
+file = "emotes/kristeve-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/7"
+file = "emotes/kristeve-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/8"
+file = "emotes/kristeve-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/10"
+file = "emotes/kristeve-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/11"
+file = "emotes/kristeve-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/12"
+file = "emotes/kristeve-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/888"
+file = "emotes/kristeve-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/930"
+file = "emotes/kristeve-930.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200083/common/938"
+file = "emotes/kristeve-938.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/0"
+file = "emotes/langlin-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/1"
+file = "emotes/langlin-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/2"
+file = "emotes/langlin-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/3"
+file = "emotes/langlin-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/4"
+file = "emotes/langlin-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/5"
+file = "emotes/langlin-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/6"
+file = "emotes/langlin-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/7"
+file = "emotes/langlin-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/8"
+file = "emotes/langlin-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/10"
+file = "emotes/langlin-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/11"
+file = "emotes/langlin-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/12"
+file = "emotes/langlin-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/888"
+file = "emotes/langlin-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/932"
+file = "emotes/langlin-932.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200084/common/951"
+file = "emotes/langlin-951.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/0"
+file = "emotes/fengyuan-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/1"
+file = "emotes/fengyuan-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/2"
+file = "emotes/fengyuan-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/3"
+file = "emotes/fengyuan-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/4"
+file = "emotes/fengyuan-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/5"
+file = "emotes/fengyuan-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/6"
+file = "emotes/fengyuan-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/en_en/7"
+file = "emotes/fengyuan-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/8"
+file = "emotes/fengyuan-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/10"
+file = "emotes/fengyuan-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/11"
+file = "emotes/fengyuan-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/12"
+file = "emotes/fengyuan-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/888"
+file = "emotes/fengyuan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200085/common/935"
+file = "emotes/fengyuan-935.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/0"
+file = "emotes/shiroko-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/1"
+file = "emotes/shiroko-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/2"
+file = "emotes/shiroko-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/3"
+file = "emotes/shiroko-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/4"
+file = "emotes/shiroko-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/5"
+file = "emotes/shiroko-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/6"
+file = "emotes/shiroko-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/7"
+file = "emotes/shiroko-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/8"
+file = "emotes/shiroko-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/10"
+file = "emotes/shiroko-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/en_en/11"
+file = "emotes/shiroko-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/12"
+file = "emotes/shiroko-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200086/common/952"
+file = "emotes/shiroko-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/0"
+file = "emotes/hoshino-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/1"
+file = "emotes/hoshino-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/2"
+file = "emotes/hoshino-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/3"
+file = "emotes/hoshino-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/4"
+file = "emotes/hoshino-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/5"
+file = "emotes/hoshino-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/6"
+file = "emotes/hoshino-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/7"
+file = "emotes/hoshino-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/8"
+file = "emotes/hoshino-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/10"
+file = "emotes/hoshino-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/11"
+file = "emotes/hoshino-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/12"
+file = "emotes/hoshino-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200087/common/952"
+file = "emotes/hoshino-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/0"
+file = "emotes/aru-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/1"
+file = "emotes/aru-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/2"
+file = "emotes/aru-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/3"
+file = "emotes/aru-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/4"
+file = "emotes/aru-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/5"
+file = "emotes/aru-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/6"
+file = "emotes/aru-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/7"
+file = "emotes/aru-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/8"
+file = "emotes/aru-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/10"
+file = "emotes/aru-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/11"
+file = "emotes/aru-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/12"
+file = "emotes/aru-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200088/common/952"
+file = "emotes/aru-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/0"
+file = "emotes/mutsuki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/1"
+file = "emotes/mutsuki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/2"
+file = "emotes/mutsuki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/3"
+file = "emotes/mutsuki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/4"
+file = "emotes/mutsuki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/5"
+file = "emotes/mutsuki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/6"
+file = "emotes/mutsuki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/7"
+file = "emotes/mutsuki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/8"
+file = "emotes/mutsuki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/10"
+file = "emotes/mutsuki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/11"
+file = "emotes/mutsuki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/12"
+file = "emotes/mutsuki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200089/common/952"
+file = "emotes/mutsuki-952.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/0"
+file = "emotes/kutsuji-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/1"
+file = "emotes/kutsuji-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/2"
+file = "emotes/kutsuji-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/3"
+file = "emotes/kutsuji-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/4"
+file = "emotes/kutsuji-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/5"
+file = "emotes/kutsuji-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/6"
+file = "emotes/kutsuji-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/7"
+file = "emotes/kutsuji-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/8"
+file = "emotes/kutsuji-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/10"
+file = "emotes/kutsuji-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/11"
+file = "emotes/kutsuji-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/12"
+file = "emotes/kutsuji-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/888"
+file = "emotes/kutsuji-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200090/common/936"
+file = "emotes/kutsuji-936.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/0"
+file = "emotes/ciri-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/1"
+file = "emotes/ciri-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/2"
+file = "emotes/ciri-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/3"
+file = "emotes/ciri-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/4"
+file = "emotes/ciri-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/5"
+file = "emotes/ciri-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/6"
+file = "emotes/ciri-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/7"
+file = "emotes/ciri-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/8"
+file = "emotes/ciri-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/10"
+file = "emotes/ciri-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/11"
+file = "emotes/ciri-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/12"
+file = "emotes/ciri-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/888"
+file = "emotes/ciri-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200091/common/933"
+file = "emotes/ciri-933.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/0"
+file = "emotes/ju-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/1"
+file = "emotes/ju-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/2"
+file = "emotes/ju-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/3"
+file = "emotes/ju-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/4"
+file = "emotes/ju-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/5"
+file = "emotes/ju-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/6"
+file = "emotes/ju-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/7"
+file = "emotes/ju-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/8"
+file = "emotes/ju-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/10"
+file = "emotes/ju-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/11"
+file = "emotes/ju-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/12"
+file = "emotes/ju-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/888"
+file = "emotes/ju-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200092/common/930"
+file = "emotes/ju-930.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/0"
+file = "emotes/leia-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/1"
+file = "emotes/leia-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/2"
+file = "emotes/leia-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/3"
+file = "emotes/leia-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/4"
+file = "emotes/leia-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/5"
+file = "emotes/leia-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/6"
+file = "emotes/leia-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/7"
+file = "emotes/leia-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/8"
+file = "emotes/leia-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/10"
+file = "emotes/leia-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/11"
+file = "emotes/leia-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/12"
+file = "emotes/leia-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/888"
+file = "emotes/leia-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200093/common/942"
+file = "emotes/leia-942.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/0"
+file = "emotes/cynthia-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/1"
+file = "emotes/cynthia-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/2"
+file = "emotes/cynthia-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/3"
+file = "emotes/cynthia-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/4"
+file = "emotes/cynthia-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/5"
+file = "emotes/cynthia-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/6"
+file = "emotes/cynthia-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/7"
+file = "emotes/cynthia-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/8"
+file = "emotes/cynthia-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/10"
+file = "emotes/cynthia-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/11"
+file = "emotes/cynthia-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/12"
+file = "emotes/cynthia-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/888"
+file = "emotes/cynthia-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200094/common/941"
+file = "emotes/cynthia-941.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/0"
+file = "emotes/minamifuuka-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/1"
+file = "emotes/minamifuuka-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/2"
+file = "emotes/minamifuuka-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/3"
+file = "emotes/minamifuuka-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/4"
+file = "emotes/minamifuuka-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/5"
+file = "emotes/minamifuuka-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/6"
+file = "emotes/minamifuuka-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/en_en/7"
+file = "emotes/minamifuuka-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/8"
+file = "emotes/minamifuuka-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/10"
+file = "emotes/minamifuuka-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/11"
+file = "emotes/minamifuuka-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/12"
+file = "emotes/minamifuuka-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200095/common/888"
+file = "emotes/minamifuuka-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/0"
+file = "emotes/mingfei-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/1"
+file = "emotes/mingfei-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/2"
+file = "emotes/mingfei-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/3"
+file = "emotes/mingfei-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/4"
+file = "emotes/mingfei-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/5"
+file = "emotes/mingfei-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/6"
+file = "emotes/mingfei-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/7"
+file = "emotes/mingfei-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/8"
+file = "emotes/mingfei-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/10"
+file = "emotes/mingfei-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/11"
+file = "emotes/mingfei-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/12"
+file = "emotes/mingfei-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200096/common/888"
+file = "emotes/mingfei-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/0"
+file = "emotes/saturne-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/1"
+file = "emotes/saturne-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/en_en/2"
+file = "emotes/saturne-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/3"
+file = "emotes/saturne-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/en_en/4"
+file = "emotes/saturne-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/5"
+file = "emotes/saturne-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/6"
+file = "emotes/saturne-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/7"
+file = "emotes/saturne-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/8"
+file = "emotes/saturne-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/10"
+file = "emotes/saturne-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/11"
+file = "emotes/saturne-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/12"
+file = "emotes/saturne-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/888"
+file = "emotes/saturne-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200097/common/931"
+file = "emotes/saturne-931.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/0"
+file = "emotes/yuqinghua-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/1"
+file = "emotes/yuqinghua-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/2"
+file = "emotes/yuqinghua-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/3"
+file = "emotes/yuqinghua-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/4"
+file = "emotes/yuqinghua-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/5"
+file = "emotes/yuqinghua-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/6"
+file = "emotes/yuqinghua-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/7"
+file = "emotes/yuqinghua-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/8"
+file = "emotes/yuqinghua-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/10"
+file = "emotes/yuqinghua-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/11"
+file = "emotes/yuqinghua-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/12"
+file = "emotes/yuqinghua-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/888"
+file = "emotes/yuqinghua-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200098/common/931"
+file = "emotes/yuqinghua-931.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/0"
+file = "emotes/yubaihua-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/1"
+file = "emotes/yubaihua-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/2"
+file = "emotes/yubaihua-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/3"
+file = "emotes/yubaihua-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/4"
+file = "emotes/yubaihua-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/5"
+file = "emotes/yubaihua-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/6"
+file = "emotes/yubaihua-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/7"
+file = "emotes/yubaihua-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/8"
+file = "emotes/yubaihua-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/10"
+file = "emotes/yubaihua-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/11"
+file = "emotes/yubaihua-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/12"
+file = "emotes/yubaihua-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/888"
+file = "emotes/yubaihua-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200099/common/931"
+file = "emotes/yubaihua-931.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/0"
+file = "emotes/asakuratoru-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/1"
+file = "emotes/asakuratoru-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/2"
+file = "emotes/asakuratoru-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/3"
+file = "emotes/asakuratoru-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/4"
+file = "emotes/asakuratoru-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/5"
+file = "emotes/asakuratoru-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/6"
+file = "emotes/asakuratoru-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/7"
+file = "emotes/asakuratoru-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/8"
+file = "emotes/asakuratoru-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/10"
+file = "emotes/asakuratoru-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/11"
+file = "emotes/asakuratoru-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/12"
+file = "emotes/asakuratoru-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000100/common/945"
+file = "emotes/asakuratoru-945.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/0"
+file = "emotes/higuchimadoka-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/1"
+file = "emotes/higuchimadoka-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/2"
+file = "emotes/higuchimadoka-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/3"
+file = "emotes/higuchimadoka-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/4"
+file = "emotes/higuchimadoka-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/5"
+file = "emotes/higuchimadoka-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/6"
+file = "emotes/higuchimadoka-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/7"
+file = "emotes/higuchimadoka-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/8"
+file = "emotes/higuchimadoka-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/10"
+file = "emotes/higuchimadoka-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/11"
+file = "emotes/higuchimadoka-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/12"
+file = "emotes/higuchimadoka-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000101/common/945"
+file = "emotes/higuchimadoka-945.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/0"
+file = "emotes/fukumarukoito-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/1"
+file = "emotes/fukumarukoito-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/2"
+file = "emotes/fukumarukoito-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/3"
+file = "emotes/fukumarukoito-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/4"
+file = "emotes/fukumarukoito-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/5"
+file = "emotes/fukumarukoito-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/6"
+file = "emotes/fukumarukoito-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/7"
+file = "emotes/fukumarukoito-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/8"
+file = "emotes/fukumarukoito-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/10"
+file = "emotes/fukumarukoito-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/11"
+file = "emotes/fukumarukoito-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/12"
+file = "emotes/fukumarukoito-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000102/common/945"
+file = "emotes/fukumarukoito-945.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/0"
+file = "emotes/ichikawahinana-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/1"
+file = "emotes/ichikawahinana-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/2"
+file = "emotes/ichikawahinana-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/3"
+file = "emotes/ichikawahinana-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/4"
+file = "emotes/ichikawahinana-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/5"
+file = "emotes/ichikawahinana-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/6"
+file = "emotes/ichikawahinana-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/7"
+file = "emotes/ichikawahinana-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/8"
+file = "emotes/ichikawahinana-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/10"
+file = "emotes/ichikawahinana-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/11"
+file = "emotes/ichikawahinana-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/12"
+file = "emotes/ichikawahinana-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000103/common/945"
+file = "emotes/ichikawahinana-945.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/0"
+file = "emotes/jane-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/1"
+file = "emotes/jane-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/2"
+file = "emotes/jane-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/3"
+file = "emotes/jane-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/4"
+file = "emotes/jane-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/5"
+file = "emotes/jane-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/6"
+file = "emotes/jane-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/7"
+file = "emotes/jane-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/8"
+file = "emotes/jane-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/10"
+file = "emotes/jane-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/11"
+file = "emotes/jane-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/12"
+file = "emotes/jane-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/888"
+file = "emotes/jane-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000106/common/927"
+file = "emotes/jane-927.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/0"
+file = "emotes/xiaoyuan-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/1"
+file = "emotes/xiaoyuan-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/2"
+file = "emotes/xiaoyuan-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/3"
+file = "emotes/xiaoyuan-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/4"
+file = "emotes/xiaoyuan-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/5"
+file = "emotes/xiaoyuan-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/6"
+file = "emotes/xiaoyuan-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/7"
+file = "emotes/xiaoyuan-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/8"
+file = "emotes/xiaoyuan-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/10"
+file = "emotes/xiaoyuan-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/11"
+file = "emotes/xiaoyuan-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/12"
+file = "emotes/xiaoyuan-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/888"
+file = "emotes/xiaoyuan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/935"
+file = "emotes/xiaoyuan-935.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/0"
+file = "emotes/matousakura-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/1"
+file = "emotes/matousakura-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/2"
+file = "emotes/matousakura-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/3"
+file = "emotes/matousakura-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/4"
+file = "emotes/matousakura-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/5"
+file = "emotes/matousakura-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/6"
+file = "emotes/matousakura-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/7"
+file = "emotes/matousakura-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/8"
+file = "emotes/matousakura-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/10"
+file = "emotes/matousakura-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/11"
+file = "emotes/matousakura-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/12"
+file = "emotes/matousakura-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000108/common/940"
+file = "emotes/matousakura-940.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/0"
+file = "emotes/tohsakarin-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/1"
+file = "emotes/tohsakarin-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/2"
+file = "emotes/tohsakarin-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/3"
+file = "emotes/tohsakarin-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/4"
+file = "emotes/tohsakarin-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/5"
+file = "emotes/tohsakarin-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/6"
+file = "emotes/tohsakarin-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/7"
+file = "emotes/tohsakarin-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/8"
+file = "emotes/tohsakarin-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/10"
+file = "emotes/tohsakarin-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/11"
+file = "emotes/tohsakarin-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/12"
+file = "emotes/tohsakarin-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000109/common/940"
+file = "emotes/tohsakarin-940.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/0"
+file = "emotes/saber-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/1"
+file = "emotes/saber-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/2"
+file = "emotes/saber-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/3"
+file = "emotes/saber-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/4"
+file = "emotes/saber-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/5"
+file = "emotes/saber-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/6"
+file = "emotes/saber-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/7"
+file = "emotes/saber-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/8"
+file = "emotes/saber-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/10"
+file = "emotes/saber-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/11"
+file = "emotes/saber-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/12"
+file = "emotes/saber-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000110/common/940"
+file = "emotes/saber-940.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/0"
+file = "emotes/archer-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/1"
+file = "emotes/archer-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/2"
+file = "emotes/archer-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/3"
+file = "emotes/archer-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/4"
+file = "emotes/archer-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/5"
+file = "emotes/archer-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/6"
+file = "emotes/archer-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/7"
+file = "emotes/archer-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/8"
+file = "emotes/archer-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/10"
+file = "emotes/archer-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/11"
+file = "emotes/archer-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/12"
+file = "emotes/archer-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000111/common/940"
+file = "emotes/archer-940.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/0"
+file = "emotes/liyang-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/1"
+file = "emotes/liyang-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/2"
+file = "emotes/liyang-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/3"
+file = "emotes/liyang-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/4"
+file = "emotes/liyang-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/5"
+file = "emotes/liyang-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/6"
+file = "emotes/liyang-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/7"
+file = "emotes/liyang-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/8"
+file = "emotes/liyang-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/10"
+file = "emotes/liyang-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/11"
+file = "emotes/liyang-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/12"
+file = "emotes/liyang-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/888"
+file = "emotes/liyang-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000112/common/936"
+file = "emotes/liyang-936.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/0"
+file = "emotes/sakatagintoki-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/1"
+file = "emotes/sakatagintoki-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/2"
+file = "emotes/sakatagintoki-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/3"
+file = "emotes/sakatagintoki-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/4"
+file = "emotes/sakatagintoki-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/5"
+file = "emotes/sakatagintoki-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/6"
+file = "emotes/sakatagintoki-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/7"
+file = "emotes/sakatagintoki-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/8"
+file = "emotes/sakatagintoki-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/10"
+file = "emotes/sakatagintoki-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/11"
+file = "emotes/sakatagintoki-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/12"
+file = "emotes/sakatagintoki-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000113/common/934"
+file = "emotes/sakatagintoki-934.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/0"
+file = "emotes/katsurakotaro-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/1"
+file = "emotes/katsurakotaro-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/2"
+file = "emotes/katsurakotaro-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/3"
+file = "emotes/katsurakotaro-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/4"
+file = "emotes/katsurakotaro-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/5"
+file = "emotes/katsurakotaro-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/6"
+file = "emotes/katsurakotaro-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/7"
+file = "emotes/katsurakotaro-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/8"
+file = "emotes/katsurakotaro-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/10"
+file = "emotes/katsurakotaro-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/11"
+file = "emotes/katsurakotaro-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/12"
+file = "emotes/katsurakotaro-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000114/common/934"
+file = "emotes/katsurakotaro-934.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/0"
+file = "emotes/takasugishinsuke-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/1"
+file = "emotes/takasugishinsuke-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/2"
+file = "emotes/takasugishinsuke-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/3"
+file = "emotes/takasugishinsuke-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/4"
+file = "emotes/takasugishinsuke-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/5"
+file = "emotes/takasugishinsuke-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/6"
+file = "emotes/takasugishinsuke-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/7"
+file = "emotes/takasugishinsuke-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/8"
+file = "emotes/takasugishinsuke-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/10"
+file = "emotes/takasugishinsuke-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/11"
+file = "emotes/takasugishinsuke-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/common/12"
+file = "emotes/takasugishinsuke-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000115/en_en/934"
+file = "emotes/takasugishinsuke-934.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/0"
+file = "emotes/sakamototatsuma-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/1"
+file = "emotes/sakamototatsuma-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/2"
+file = "emotes/sakamototatsuma-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/3"
+file = "emotes/sakamototatsuma-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/4"
+file = "emotes/sakamototatsuma-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/5"
+file = "emotes/sakamototatsuma-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/6"
+file = "emotes/sakamototatsuma-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/7"
+file = "emotes/sakamototatsuma-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/8"
+file = "emotes/sakamototatsuma-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/10"
+file = "emotes/sakamototatsuma-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/11"
+file = "emotes/sakamototatsuma-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/12"
+file = "emotes/sakamototatsuma-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000116/common/934"
+file = "emotes/sakamototatsuma-934.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/0"
+file = "emotes/mila-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/1"
+file = "emotes/mila-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/2"
+file = "emotes/mila-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/3"
+file = "emotes/mila-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/4"
+file = "emotes/mila-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/5"
+file = "emotes/mila-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/6"
+file = "emotes/mila-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/7"
+file = "emotes/mila-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/8"
+file = "emotes/mila-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/10"
+file = "emotes/mila-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/11"
+file = "emotes/mila-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/12"
+file = "emotes/mila-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/888"
+file = "emotes/mila-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/0"
+file = "emotes/hokuraku-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/1"
+file = "emotes/hokuraku-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/2"
+file = "emotes/hokuraku-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/3"
+file = "emotes/hokuraku-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/4"
+file = "emotes/hokuraku-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/5"
+file = "emotes/hokuraku-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/6"
+file = "emotes/hokuraku-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/7"
+file = "emotes/hokuraku-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/8"
+file = "emotes/hokuraku-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/10"
+file = "emotes/hokuraku-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/11"
+file = "emotes/hokuraku-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/12"
+file = "emotes/hokuraku-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000118/common/888"
+file = "emotes/hokuraku-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/0"
+file = "emotes/shinoharamia-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/1"
+file = "emotes/shinoharamia-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/2"
+file = "emotes/shinoharamia-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/3"
+file = "emotes/shinoharamia-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/4"
+file = "emotes/shinoharamia-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/5"
+file = "emotes/shinoharamia-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/6"
+file = "emotes/shinoharamia-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/7"
+file = "emotes/shinoharamia-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/8"
+file = "emotes/shinoharamia-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/10"
+file = "emotes/shinoharamia-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/11"
+file = "emotes/shinoharamia-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/12"
+file = "emotes/shinoharamia-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000119/common/888"
+file = "emotes/shinoharamia-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/0"
+file = "emotes/jinwu-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/1"
+file = "emotes/jinwu-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/2"
+file = "emotes/jinwu-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/3"
+file = "emotes/jinwu-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/4"
+file = "emotes/jinwu-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/5"
+file = "emotes/jinwu-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/6"
+file = "emotes/jinwu-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/7"
+file = "emotes/jinwu-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/8"
+file = "emotes/jinwu-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/10"
+file = "emotes/jinwu-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/11"
+file = "emotes/jinwu-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/12"
+file = "emotes/jinwu-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000120/common/888"
+file = "emotes/jinwu-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/0"
+file = "emotes/kirito-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/1"
+file = "emotes/kirito-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/2"
+file = "emotes/kirito-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/3"
+file = "emotes/kirito-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/4"
+file = "emotes/kirito-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/5"
+file = "emotes/kirito-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/6"
+file = "emotes/kirito-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/7"
+file = "emotes/kirito-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/8"
+file = "emotes/kirito-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/10"
+file = "emotes/kirito-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/11"
+file = "emotes/kirito-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/12"
+file = "emotes/kirito-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000122/common/928"
+file = "emotes/kirito-928.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/0"
+file = "emotes/asuna-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/1"
+file = "emotes/asuna-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/2"
+file = "emotes/asuna-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/3"
+file = "emotes/asuna-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/4"
+file = "emotes/asuna-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/5"
+file = "emotes/asuna-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/6"
+file = "emotes/asuna-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/7"
+file = "emotes/asuna-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/8"
+file = "emotes/asuna-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/10"
+file = "emotes/asuna-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/11"
+file = "emotes/asuna-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/12"
+file = "emotes/asuna-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000123/common/928"
+file = "emotes/asuna-928.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/0"
+file = "emotes/leafa-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/1"
+file = "emotes/leafa-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/2"
+file = "emotes/leafa-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/3"
+file = "emotes/leafa-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/4"
+file = "emotes/leafa-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/5"
+file = "emotes/leafa-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/6"
+file = "emotes/leafa-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/7"
+file = "emotes/leafa-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/8"
+file = "emotes/leafa-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/10"
+file = "emotes/leafa-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/11"
+file = "emotes/leafa-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/12"
+file = "emotes/leafa-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000124/common/928"
+file = "emotes/leafa-928.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/0"
+file = "emotes/sinon-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/1"
+file = "emotes/sinon-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/2"
+file = "emotes/sinon-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/3"
+file = "emotes/sinon-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/4"
+file = "emotes/sinon-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/5"
+file = "emotes/sinon-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/6"
+file = "emotes/sinon-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/7"
+file = "emotes/sinon-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/8"
+file = "emotes/sinon-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/10"
+file = "emotes/sinon-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/11"
+file = "emotes/sinon-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/12"
+file = "emotes/sinon-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000125/common/928"
+file = "emotes/sinon-928.png"
+ppu = 200
