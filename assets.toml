@@ -2629,6 +2629,11 @@ file = "emotes/ishiharausumi-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200031/common/925"
+file = "emotes/ishiharausumi-925.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200031/common/959"
 file = "emotes/ishiharausumi-959.png"
 ppu = 200
@@ -3581,6 +3586,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e200044/common/888"
 file = "emotes/nanamireina-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200044/common/925"
+file = "emotes/nanamireina-925.png"
 ppu = 200
 
 [[replace]]
@@ -8501,6 +8511,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e20000117/common/888"
 file = "emotes/mila-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000117/common/925"
+file = "emotes/mila-925.png"
 ppu = 200
 
 [[replace]]
