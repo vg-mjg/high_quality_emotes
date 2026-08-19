@@ -1814,6 +1814,11 @@ file = "emotes/suzumiyaanju-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200021/common/924"
+file = "emotes/suzumiyaanju-924.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200021/common/939"
 file = "emotes/suzumiyaanju-939.png"
 ppu = 200
@@ -3826,6 +3831,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e200047/common/888"
 file = "emotes/ryan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200047/common/924"
+file = "emotes/ryan-924.png"
 ppu = 200
 
 [[replace]]
@@ -7044,6 +7054,11 @@ file = "emotes/leia-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200093/common/924"
+file = "emotes/leia-924.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200093/common/942"
 file = "emotes/leia-942.png"
 ppu = 200
@@ -7851,6 +7866,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e20000107/common/888"
 file = "emotes/xiaoyuan-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000107/common/924"
+file = "emotes/xiaoyuan-924.png"
 ppu = 200
 
 [[replace]]
@@ -8711,6 +8731,71 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e20000120/common/888"
 file = "emotes/jinwu-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/0"
+file = "emotes/chilin-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/1"
+file = "emotes/chilin-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/2"
+file = "emotes/chilin-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/3"
+file = "emotes/chilin-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/4"
+file = "emotes/chilin-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/5"
+file = "emotes/chilin-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/6"
+file = "emotes/chilin-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/7"
+file = "emotes/chilin-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/8"
+file = "emotes/chilin-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/10"
+file = "emotes/chilin-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/11"
+file = "emotes/chilin-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/12"
+file = "emotes/chilin-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000121/common/924"
+file = "emotes/chilin-924.png"
 ppu = 200
 
 [[replace]]
