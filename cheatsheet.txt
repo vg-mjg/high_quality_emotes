@@ -1,0 +1,23 @@
+Here's how the internal skin emote filenames correlate to themes, which Catfood are gradually porting over to.
+
+1001 - Chinese New Year
+1002 - Suits/Dresses
+1003 - Hot Spring
+1004 - Swimsuits
+1005 - Halloween
+1006 - Christmas
+1007 - New Years
+1008 - Student
+1009 - Maid
+1010 - Festival
+1011 - Pyjamas
+1012 - Fantasy
+1013 - Moths/Fairy
+1014 - Band
+1015 - Racing
+1016 - Chinese Battle Outfits(?)
+1017 - Greek
+1018 - Ballerina
+1019 - Streetwear
+1020 - Cheerleaders
+1801 - Sanrio collab
