@@ -64,12 +64,12 @@ file = "emotes/ichihime-13.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/common/937"
+game_path = "deco/emo/e200001/common/1008"
 file = "emotes/ichihime-937.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/common/966"
+game_path = "deco/emo/e200001/common/1001"
 file = "emotes/ichihime-966.png"
 ppu = 200
 
@@ -84,12 +84,12 @@ file = "emotes/ichihime-984.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/common/996"
+game_path = "deco/emo/e200001/common/1007"
 file = "emotes/ichihime-996.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/common/997"
+game_path = "deco/emo/e200001/common/1004"
 file = "emotes/ichihime-997.png"
 ppu = 200
 
@@ -244,12 +244,12 @@ file = "emotes/fujitakana-13.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200003/common/927"
+game_path = "deco/emo/e200003/common/1020"
 file = "emotes/fujitakana-927.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200003/common/943"
+game_path = "deco/emo/e200003/common/1001"
 file = "emotes/fujitakana-943.png"
 ppu = 200
 
@@ -259,12 +259,12 @@ file = "emotes/fujitakana-959.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200003/common/979"
+game_path = "deco/emo/e200003/common/1005"
 file = "emotes/fujitakana-979.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200003/common/999"
+game_path = "deco/emo/e200003/common/1006"
 file = "emotes/fujitakana-999.png"
 ppu = 200
 
@@ -434,7 +434,7 @@ file = "emotes/aiharamai-923.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200005/common/932"
+game_path = "deco/emo/e200005/common/1007"
 file = "emotes/aiharamai-932.png"
 ppu = 200
 
@@ -444,12 +444,12 @@ file = "emotes/aiharamai-947.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200005/common/952"
+game_path = "deco/emo/e200005/common/1003"
 file = "emotes/aiharamai-952.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200005/common/968"
+game_path = "deco/emo/e200005/common/1005"
 file = "emotes/aiharamai-968.png"
 ppu = 200
 
@@ -459,7 +459,7 @@ file = "emotes/aiharamai-989.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200005/common/997"
+game_path = "deco/emo/e200005/common/1004"
 file = "emotes/aiharamai-997.png"
 ppu = 200
 
@@ -619,7 +619,7 @@ file = "emotes/yagiyui-13.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/935"
+game_path = "deco/emo/e200007/common/1016"
 file = "emotes/yagiyui-935.png"
 ppu = 200
 
@@ -629,27 +629,27 @@ file = "emotes/yagiyui-947.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/961"
+game_path = "deco/emo/e200007/common/1012"
 file = "emotes/yagiyui-961.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/970"
+game_path = "deco/emo/e200007/common/1004"
 file = "emotes/yagiyui-970.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/976"
+game_path = "deco/emo/e200007/common/1002"
 file = "emotes/yagiyui-976.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/993"
+game_path = "deco/emo/e200007/common/1005"
 file = "emotes/yagiyui-993.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200007/common/999"
+game_path = "deco/emo/e200007/common/1006"
 file = "emotes/yagiyui-999.png"
 ppu = 200
 
@@ -724,27 +724,27 @@ file = "emotes/kujouriu-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200008/common/937"
+game_path = "deco/emo/e200008/common/1008"
 file = "emotes/kujouriu-937.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200008/common/950"
+game_path = "deco/emo/e200008/common/1015"
 file = "emotes/kujouriu-950.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200008/common/972"
+game_path = "deco/emo/e200008/common/1012"
 file = "emotes/kujouriu-972.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200008/common/991"
+game_path = "deco/emo/e200008/common/1007"
 file = "emotes/kujouriu-991.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200008/common/997"
+game_path = "deco/emo/e200008/common/1004"
 file = "emotes/kujouriu-997.png"
 ppu = 200
 
@@ -814,12 +814,12 @@ file = "emotes/xenia-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200009/common/929"
+game_path = "deco/emo/e200009/common/1003"
 file = "emotes/xenia-929.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200009/common/937"
+game_path = "deco/emo/e200009/common/1008"
 file = "emotes/xenia-937.png"
 ppu = 200
 
@@ -829,17 +829,17 @@ file = "emotes/xenia-947.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200009/common/966"
+game_path = "deco/emo/e200009/common/1001"
 file = "emotes/xenia-966.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200009/common/994"
+game_path = "deco/emo/e200009/common/1004"
 file = "emotes/xenia-994.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200009/en_en/998"
+game_path = "deco/emo/e200009/en_en/1005"
 file = "emotes/xenia-998.png"
 ppu = 200
 
@@ -1479,22 +1479,22 @@ file = "emotes/ninomiyahana-923.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200017/common/944"
+game_path = "deco/emo/e200017/common/1006"
 file = "emotes/ninomiyahana-944.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200017/common/962"
+game_path = "deco/emo/e200017/common/1009"
 file = "emotes/ninomiyahana-962.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200017/common/982"
+game_path = "deco/emo/e200017/common/1004"
 file = "emotes/ninomiyahana-982.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200017/common/995"
+game_path = "deco/emo/e200017/common/1001"
 file = "emotes/ninomiyahana-995.png"
 ppu = 200
 
@@ -1564,22 +1564,22 @@ file = "emotes/shiraishinana-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200018/common/927"
+game_path = "deco/emo/e200018/common/1020"
 file = "emotes/shiraishinana-927.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200018/common/944"
+game_path = "deco/emo/e200018/common/1006"
 file = "emotes/shiraishinana-944.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200018/common/962"
+game_path = "deco/emo/e200018/common/1009"
 file = "emotes/shiraishinana-962.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200018/common/994"
+game_path = "deco/emo/e200018/common/1004"
 file = "emotes/shiraishinana-994.png"
 ppu = 200
 
@@ -1649,27 +1649,27 @@ file = "emotes/takanashihinata-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200019/common/938"
+game_path = "deco/emo/e200019/common/1017"
 file = "emotes/takanashihinata-938.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200019/common/949"
+game_path = "deco/emo/e200019/common/1011"
 file = "emotes/takanashihinata-949.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200019/common/972"
+game_path = "deco/emo/e200019/common/1012"
 file = "emotes/takanashihinata-972.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200019/common/981"
+game_path = "deco/emo/e200019/common/1010"
 file = "emotes/takanashihinata-981.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200019/common/986"
+game_path = "deco/emo/e200019/common/1009"
 file = "emotes/takanashihinata-986.png"
 ppu = 200
 
@@ -1824,27 +1824,27 @@ file = "emotes/suzumiyaanju-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200021/common/924"
+game_path = "deco/emo/e200021/common/1004"
 file = "emotes/suzumiyaanju-924.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200021/common/939"
+game_path = "deco/emo/e200021/common/1018"
 file = "emotes/suzumiyaanju-939.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200021/common/954"
+game_path = "deco/emo/e200021/common/1001"
 file = "emotes/suzumiyaanju-954.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200021/common/981"
+game_path = "deco/emo/e200021/common/1010"
 file = "emotes/suzumiyaanju-981.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200021/common/985"
+game_path = "deco/emo/e200021/common/1011"
 file = "emotes/suzumiyaanju-985.png"
 ppu = 200
 
@@ -2149,17 +2149,17 @@ file = "emotes/ein-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200025/common/932"
+game_path = "deco/emo/e200025/common/1007"
 file = "emotes/ein-932.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200025/common/957"
+game_path = "deco/emo/e200025/common/1005"
 file = "emotes/ein-957.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200025/common/982"
+game_path = "deco/emo/e200025/common/1004"
 file = "emotes/ein-982.png"
 ppu = 200
 
@@ -2234,22 +2234,22 @@ file = "emotes/hinamomo-923.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200026/common/936"
+game_path = "deco/emo/e200026/common/1004"
 file = "emotes/hinamomo-936.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200026/common/944"
+game_path = "deco/emo/e200026/common/1006"
 file = "emotes/hinamomo-944.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200026/common/973"
+game_path = "deco/emo/e200026/common/1009"
 file = "emotes/hinamomo-973.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200026/common/989"
+game_path = "deco/emo/e200026/common/1001"
 file = "emotes/hinamomo-989.png"
 ppu = 200
 
@@ -2399,22 +2399,22 @@ file = "emotes/fujimotokirara-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200028/common/937"
+game_path = "deco/emo/e200028/common/1008"
 file = "emotes/fujimotokirara-937.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200028/common/952"
+game_path = "deco/emo/e200028/common/1003"
 file = "emotes/fujimotokirara-952.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200028/common/971"
+game_path = "deco/emo/e200028/common/1011"
 file = "emotes/fujimotokirara-971.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200028/common/991"
+game_path = "deco/emo/e200028/common/1007"
 file = "emotes/fujimotokirara-991.png"
 ppu = 200
 
@@ -2484,27 +2484,27 @@ file = "emotes/kaguyahime-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200029/common/933"
+game_path = "deco/emo/e200029/common/1019"
 file = "emotes/kaguyahime-933.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200029/common/942"
+game_path = "deco/emo/e200029/common/1002"
 file = "emotes/kaguyahime-942.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200029/common/964"
+game_path = "deco/emo/e200029/common/1003"
 file = "emotes/kaguyahime-964.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200029/common/976"
+game_path = "deco/emo/e200029/common/1001"
 file = "emotes/kaguyahime-976.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200029/common/992"
+game_path = "deco/emo/e200029/common/1006"
 file = "emotes/kaguyahime-992.png"
 ppu = 200
 
@@ -2649,17 +2649,17 @@ file = "emotes/ishiharausumi-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200031/common/925"
+game_path = "deco/emo/e200031/common/1013"
 file = "emotes/ishiharausumi-925.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200031/common/959"
+game_path = "deco/emo/e200031/common/1004"
 file = "emotes/ishiharausumi-959.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200031/common/978"
+game_path = "deco/emo/e200031/common/1006"
 file = "emotes/ishiharausumi-978.png"
 ppu = 200
 
@@ -2729,27 +2729,27 @@ file = "emotes/eliisa-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200032/common/932"
+game_path = "deco/emo/e200032/common/1006"
 file = "emotes/eliisa-932.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200032/common/950"
+game_path = "deco/emo/e200032/common/1015"
 file = "emotes/eliisa-950.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200032/common/957"
+game_path = "deco/emo/e200032/common/1005"
 file = "emotes/eliisa-957.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200032/common/976"
+game_path = "deco/emo/e200032/common/1001"
 file = "emotes/eliisa-976.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200032/common/985"
+game_path = "deco/emo/e200032/common/1011"
 file = "emotes/eliisa-985.png"
 ppu = 200
 
@@ -2819,17 +2819,17 @@ file = "emotes/terasakichihori-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200033/common/929"
+game_path = "deco/emo/e200033/common/1003"
 file = "emotes/terasakichihori-929.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200033/common/948"
+game_path = "deco/emo/e200033/common/1004"
 file = "emotes/terasakichihori-948.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200033/common/969"
+game_path = "deco/emo/e200033/common/1010"
 file = "emotes/terasakichihori-969.png"
 ppu = 200
 
@@ -3179,7 +3179,7 @@ file = "emotes/fuji-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200038/common/930"
+game_path = "deco/emo/e200038/common/1001"
 file = "emotes/fuji-930.png"
 ppu = 200
 
@@ -3189,17 +3189,17 @@ file = "emotes/fuji-947.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200038/common/959"
+game_path = "deco/emo/e200038/common/1004"
 file = "emotes/fuji-959.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200038/common/967"
+game_path = "deco/emo/e200038/common/1006"
 file = "emotes/fuji-967.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200038/common/974"
+game_path = "deco/emo/e200038/common/1003"
 file = "emotes/fuji-974.png"
 ppu = 200
 
@@ -3269,17 +3269,17 @@ file = "emotes/qixi-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200039/common/932"
+game_path = "deco/emo/e200039/common/1006"
 file = "emotes/qixi-932.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200039/common/961"
+game_path = "deco/emo/e200039/common/1012"
 file = "emotes/qixi-961.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200039/common/970"
+game_path = "deco/emo/e200039/common/1004"
 file = "emotes/qixi-970.png"
 ppu = 200
 
@@ -3609,22 +3609,22 @@ file = "emotes/nanamireina-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200044/common/925"
+game_path = "deco/emo/e200044/common/1013"
 file = "emotes/nanamireina-925.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200044/common/944"
+game_path = "deco/emo/e200044/common/1007"
 file = "emotes/nanamireina-944.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200044/common/960"
+game_path = "deco/emo/e200044/common/1011"
 file = "emotes/nanamireina-960.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200044/common/978"
+game_path = "deco/emo/e200044/common/1006"
 file = "emotes/nanamireina-978.png"
 ppu = 200
 
@@ -3849,17 +3849,17 @@ file = "emotes/ryan-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200047/common/924"
+game_path = "deco/emo/e200047/common/1004"
 file = "emotes/ryan-924.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200047/common/957"
+game_path = "deco/emo/e200047/common/1005"
 file = "emotes/ryan-957.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200047/common/967"
+game_path = "deco/emo/e200047/common/1006"
 file = "emotes/ryan-967.png"
 ppu = 200
 
@@ -3929,22 +3929,22 @@ file = "emotes/morikawaayako-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200048/common/932"
+game_path = "deco/emo/e200048/common/1006"
 file = "emotes/morikawaayako-932.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200048/common/946"
+game_path = "deco/emo/e200048/common/1005"
 file = "emotes/morikawaayako-946.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200048/common/965"
+game_path = "deco/emo/e200048/common/1002"
 file = "emotes/morikawaayako-965.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200048/common/971"
+game_path = "deco/emo/e200048/common/1011"
 file = "emotes/morikawaayako-971.png"
 ppu = 200
 
@@ -4014,17 +4014,17 @@ file = "emotes/takigawanatsuhiko-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200049/common/933"
+game_path = "deco/emo/e200049/common/1019"
 file = "emotes/takigawanatsuhiko-933.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200049/common/954"
+game_path = "deco/emo/e200049/common/1001"
 file = "emotes/takigawanatsuhiko-954.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200049/common/964"
+game_path = "deco/emo/e200049/common/1003"
 file = "emotes/takigawanatsuhiko-964.png"
 ppu = 200
 
@@ -4299,12 +4299,12 @@ file = "emotes/onoderananaha-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200053/common/936"
+game_path = "deco/emo/e200053/common/1004"
 file = "emotes/onoderananaha-936.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200053/common/958"
+game_path = "deco/emo/e200053/common/1010"
 file = "emotes/onoderananaha-958.png"
 ppu = 200
 
@@ -4374,17 +4374,17 @@ file = "emotes/sammir-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200054/common/938"
+game_path = "deco/emo/e200054/common/1017"
 file = "emotes/sammir-938.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200054/common/953"
+game_path = "deco/emo/e200054/common/1002"
 file = "emotes/sammir-953.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200054/common/974"
+game_path = "deco/emo/e200054/common/1003"
 file = "emotes/sammir-974.png"
 ppu = 200
 
@@ -4714,22 +4714,22 @@ file = "emotes/yuzu-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200059/common/939"
+game_path = "deco/emo/e200059/common/1018"
 file = "emotes/yuzu-939.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200059/common/948"
+game_path = "deco/emo/e200059/common/1004"
 file = "emotes/yuzu-948.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200059/common/955"
+game_path = "deco/emo/e200059/common/1007"
 file = "emotes/yuzu-955.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200059/common/960"
+game_path = "deco/emo/e200059/common/1011"
 file = "emotes/yuzu-960.png"
 ppu = 200
 
@@ -5199,22 +5199,22 @@ file = "emotes/fuyumishinomiya-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200066/common/927"
+game_path = "deco/emo/e200066/common/1020"
 file = "emotes/fuyumishinomiya-927.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200066/common/951"
+game_path = "deco/emo/e200066/common/1014"
 file = "emotes/fuyumishinomiya-951.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200066/common/955"
+game_path = "deco/emo/e200066/common/1006"
 file = "emotes/fuyumishinomiya-955.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200066/common/962"
+game_path = "deco/emo/e200066/common/1009"
 file = "emotes/fuyumishinomiya-962.png"
 ppu = 200
 
@@ -5284,12 +5284,12 @@ file = "emotes/qingluan-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200067/common/936"
+game_path = "deco/emo/e200067/common/1004"
 file = "emotes/qingluan-936.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200067/common/954"
+game_path = "deco/emo/e200067/common/1001"
 file = "emotes/qingluan-954.png"
 ppu = 200
 
@@ -5364,12 +5364,12 @@ file = "emotes/kisaragiayane-923.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200068/common/944"
+game_path = "deco/emo/e200068/common/1007"
 file = "emotes/kisaragiayane-944.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200068/common/955"
+game_path = "deco/emo/e200068/common/1006"
 file = "emotes/kisaragiayane-955.png"
 ppu = 200
 
@@ -5439,12 +5439,12 @@ file = "emotes/mirai-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200069/common/939"
+game_path = "deco/emo/e200069/common/1018"
 file = "emotes/mirai-939.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200069/common/953"
+game_path = "deco/emo/e200069/common/1002"
 file = "emotes/mirai-953.png"
 ppu = 200
 
@@ -5774,12 +5774,12 @@ file = "emotes/ransei-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200074/common/933"
+game_path = "deco/emo/e200074/common/1019"
 file = "emotes/ransei-933.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200074/common/946"
+game_path = "deco/emo/e200074/common/1005"
 file = "emotes/ransei-946.png"
 ppu = 200
 
@@ -5849,12 +5849,12 @@ file = "emotes/ling-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200075/common/935"
+game_path = "deco/emo/e200075/common/1016"
 file = "emotes/ling-935.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200075/common/948"
+game_path = "deco/emo/e200075/common/1004"
 file = "emotes/ling-948.png"
 ppu = 200
 
@@ -6384,12 +6384,12 @@ file = "emotes/kristeve-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200083/common/930"
+game_path = "deco/emo/e200083/common/1001"
 file = "emotes/kristeve-930.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200083/common/938"
+game_path = "deco/emo/e200083/common/1017"
 file = "emotes/kristeve-938.png"
 ppu = 200
 
@@ -6459,12 +6459,12 @@ file = "emotes/langlin-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200084/common/932"
+game_path = "deco/emo/e200084/common/1006"
 file = "emotes/langlin-932.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200084/common/951"
+game_path = "deco/emo/e200084/common/1014"
 file = "emotes/langlin-951.png"
 ppu = 200
 
@@ -6534,7 +6534,7 @@ file = "emotes/fengyuan-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200085/common/935"
+game_path = "deco/emo/e200085/common/1016"
 file = "emotes/fengyuan-935.png"
 ppu = 200
 
@@ -6864,7 +6864,7 @@ file = "emotes/kutsuji-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200090/common/936"
+game_path = "deco/emo/e200090/common/1004"
 file = "emotes/kutsuji-936.png"
 ppu = 200
 
@@ -6934,7 +6934,7 @@ file = "emotes/ciri-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200091/common/933"
+game_path = "deco/emo/e200091/common/1019"
 file = "emotes/ciri-933.png"
 ppu = 200
 
@@ -7004,7 +7004,7 @@ file = "emotes/ju-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200092/common/930"
+game_path = "deco/emo/e200092/common/1001"
 file = "emotes/ju-930.png"
 ppu = 200
 
@@ -7074,12 +7074,12 @@ file = "emotes/leia-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200093/common/924"
+game_path = "deco/emo/e200093/common/1004"
 file = "emotes/leia-924.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200093/common/942"
+game_path = "deco/emo/e200093/common/1002"
 file = "emotes/leia-942.png"
 ppu = 200
 
@@ -7349,7 +7349,7 @@ file = "emotes/saturne-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200097/common/931"
+game_path = "deco/emo/e200097/common/1002"
 file = "emotes/saturne-931.png"
 ppu = 200
 
@@ -7419,7 +7419,7 @@ file = "emotes/yuqinghua-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200098/common/931"
+game_path = "deco/emo/e200098/common/1002"
 file = "emotes/yuqinghua-931.png"
 ppu = 200
 
@@ -7489,7 +7489,7 @@ file = "emotes/yubaihua-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200099/common/931"
+game_path = "deco/emo/e200099/common/1002"
 file = "emotes/yubaihua-931.png"
 ppu = 200
 
@@ -7819,7 +7819,7 @@ file = "emotes/jane-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000106/common/927"
+game_path = "deco/emo/e20000106/common/1020"
 file = "emotes/jane-927.png"
 ppu = 200
 
@@ -7889,12 +7889,12 @@ file = "emotes/xiaoyuan-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000107/common/924"
+game_path = "deco/emo/e20000107/common/1004"
 file = "emotes/xiaoyuan-924.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000107/common/935"
+game_path = "deco/emo/e20000107/common/1016"
 file = "emotes/xiaoyuan-935.png"
 ppu = 200
 
@@ -8554,7 +8554,7 @@ file = "emotes/mila-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000117/common/925"
+game_path = "deco/emo/e20000117/common/1013"
 file = "emotes/mila-925.png"
 ppu = 200
 
