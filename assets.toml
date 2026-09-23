@@ -429,6 +429,11 @@ file = "emotes/aiharamai-13.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200005/common/1011"
+file = "emotes/aiharamai-923.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200005/common/932"
 file = "emotes/aiharamai-932.png"
 ppu = 200
@@ -1469,6 +1474,11 @@ file = "emotes/ninomiyahana-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200017/common/1011"
+file = "emotes/ninomiyahana-923.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200017/common/944"
 file = "emotes/ninomiyahana-944.png"
 ppu = 200
@@ -2216,6 +2226,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e200026/common/888"
 file = "emotes/hinamomo-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200026/common/1011"
+file = "emotes/hinamomo-923.png"
 ppu = 200
 
 [[replace]]
@@ -5341,6 +5356,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e200068/common/888"
 file = "emotes/kisaragiayane-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200068/common/1011"
+file = "emotes/kisaragiayane-923.png"
 ppu = 200
 
 [[replace]]
@@ -9056,4 +9076,64 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e20000125/common/928"
 file = "emotes/sinon-928.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/0"
+file = "emotes/murphy-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/1"
+file = "emotes/murphy-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/2"
+file = "emotes/murphy-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/3"
+file = "emotes/murphy-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/4"
+file = "emotes/murphy-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/5"
+file = "emotes/murphy-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/6"
+file = "emotes/murphy-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/7"
+file = "emotes/murphy-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/8"
+file = "emotes/murphy-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/10"
+file = "emotes/murphy-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/11"
+file = "emotes/murphy-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000126/common/12"
+file = "emotes/murphy-12.png"
 ppu = 200
