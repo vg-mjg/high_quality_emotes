@@ -74,12 +74,12 @@ file = "emotes/ichihime-966.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/common/983"
+game_path = "deco/emo/e200001/common/1022"
 file = "emotes/ichihime-983.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200001/en_en/984"
+game_path = "deco/emo/e200001/en_en/3001"
 file = "emotes/ichihime-984.png"
 ppu = 200
 
@@ -4089,12 +4089,12 @@ file = "emotes/akagishigeru-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200050/common/926"
+game_path = "deco/emo/e200050/common/2002"
 file = "emotes/akagishigeru-926.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200050/common/980"
+game_path = "deco/emo/e200050/common/2001"
 file = "emotes/akagishigeru-980.png"
 ppu = 200
 
@@ -4159,12 +4159,12 @@ file = "emotes/washizuiwao-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200051/common/926"
+game_path = "deco/emo/e200051/common/2002"
 file = "emotes/washizuiwao-926.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200051/common/980"
+game_path = "deco/emo/e200051/common/2001"
 file = "emotes/washizuiwao-980.png"
 ppu = 200
 
@@ -7959,7 +7959,7 @@ file = "emotes/matousakura-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000108/common/940"
+game_path = "deco/emo/e20000108/common/2001"
 file = "emotes/matousakura-940.png"
 ppu = 200
 
@@ -8024,7 +8024,7 @@ file = "emotes/tohsakarin-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000109/common/940"
+game_path = "deco/emo/e20000109/common/2001"
 file = "emotes/tohsakarin-940.png"
 ppu = 200
 
@@ -8089,7 +8089,7 @@ file = "emotes/saber-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000110/common/940"
+game_path = "deco/emo/e20000110/common/2001"
 file = "emotes/saber-940.png"
 ppu = 200
 
@@ -8154,7 +8154,7 @@ file = "emotes/archer-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000111/common/940"
+game_path = "deco/emo/e20000111/common/2001"
 file = "emotes/archer-940.png"
 ppu = 200
 
@@ -8224,7 +8224,7 @@ file = "emotes/liyang-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000112/common/936"
+game_path = "deco/emo/e20000112/common/2001"
 file = "emotes/liyang-936.png"
 ppu = 200
 
@@ -8289,7 +8289,7 @@ file = "emotes/sakatagintoki-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000113/common/934"
+game_path = "deco/emo/e20000113/common/2001"
 file = "emotes/sakatagintoki-934.png"
 ppu = 200
 
@@ -8354,7 +8354,7 @@ file = "emotes/katsurakotaro-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000114/common/934"
+game_path = "deco/emo/e20000114/common/2001"
 file = "emotes/katsurakotaro-934.png"
 ppu = 200
 
@@ -8419,7 +8419,7 @@ file = "emotes/takasugishinsuke-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000115/en_en/934"
+game_path = "deco/emo/e20000115/en_en/2001"
 file = "emotes/takasugishinsuke-934.png"
 ppu = 200
 
@@ -8484,7 +8484,7 @@ file = "emotes/sakamototatsuma-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000116/common/934"
+game_path = "deco/emo/e20000116/common/2001"
 file = "emotes/sakamototatsuma-934.png"
 ppu = 200
 
@@ -8814,7 +8814,7 @@ file = "emotes/chilin-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000121/common/924"
+game_path = "deco/emo/e20000121/common/2001"
 file = "emotes/chilin-924.png"
 ppu = 200
 
@@ -8879,7 +8879,7 @@ file = "emotes/kirito-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000122/common/928"
+game_path = "deco/emo/e20000122/common/2001"
 file = "emotes/kirito-928.png"
 ppu = 200
 
@@ -8944,7 +8944,7 @@ file = "emotes/asuna-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000123/common/928"
+game_path = "deco/emo/e20000123/common/2001"
 file = "emotes/asuna-928.png"
 ppu = 200
 
@@ -9009,7 +9009,7 @@ file = "emotes/leafa-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000124/common/928"
+game_path = "deco/emo/e20000124/common/2001"
 file = "emotes/leafa-928.png"
 ppu = 200
 
@@ -9074,7 +9074,7 @@ file = "emotes/sinon-12.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e20000125/common/928"
+game_path = "deco/emo/e20000125/common/2001"
 file = "emotes/sinon-928.png"
 ppu = 200
 

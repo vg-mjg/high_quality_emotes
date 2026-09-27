@@ -20,4 +20,9 @@ Here's how the internal skin emote filenames correlate to themes, which Catfood 
 1018 - Ballerina
 1019 - Streetwear
 1020 - Cheerleaders
+1022 - Invincible Ichihime
+
 1801 - Sanrio collab
+2001 - Collab and Limited char skins
+2002 - Collab skins 2
+3001 - Red Bull Ichihime
