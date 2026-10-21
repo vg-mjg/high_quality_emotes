@@ -1384,27 +1384,32 @@ file = "emotes/sara-888.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200016/common/943"
+game_path = "deco/emo/e200016/common/1005"
+file = "emotes/sara-922.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200016/common/1001"
 file = "emotes/sara-943.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200016/common/961"
+game_path = "deco/emo/e200016/common/1012"
 file = "emotes/sara-961.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200016/common/970"
+game_path = "deco/emo/e200016/common/1004"
 file = "emotes/sara-970.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200016/common/988"
+game_path = "deco/emo/e200016/common/1008"
 file = "emotes/sara-988.png"
 ppu = 200
 
 [[replace]]
-game_path = "deco/emo/e200016/common/996"
+game_path = "deco/emo/e200016/common/1007"
 file = "emotes/sara-996.png"
 ppu = 200
 
@@ -4714,6 +4719,11 @@ file = "emotes/yuzu-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e200059/common/1005"
+file = "emotes/yuzu-922.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e200059/common/1018"
 file = "emotes/yuzu-939.png"
 ppu = 200
@@ -6056,6 +6066,11 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e200078/common/888"
 file = "emotes/musa-888.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e200078/common/1005"
+file = "emotes/musa-922.png"
 ppu = 200
 
 [[replace]]
@@ -8689,6 +8704,11 @@ file = "emotes/shinoharamia-888.png"
 ppu = 200
 
 [[replace]]
+game_path = "deco/emo/e20000119/common/1005"
+file = "emotes/shinoharamia-922.png"
+ppu = 200
+
+[[replace]]
 game_path = "deco/emo/e20000120/common/0"
 file = "emotes/jinwu-0.png"
 ppu = 200
@@ -9136,4 +9156,64 @@ ppu = 200
 [[replace]]
 game_path = "deco/emo/e20000126/common/12"
 file = "emotes/murphy-12.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/0"
+file = "emotes/reisei-0.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/1"
+file = "emotes/reisei-1.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/2"
+file = "emotes/reisei-2.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/3"
+file = "emotes/reisei-3.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/4"
+file = "emotes/reisei-4.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/5"
+file = "emotes/reisei-5.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/6"
+file = "emotes/reisei-6.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/7"
+file = "emotes/reisei-7.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/8"
+file = "emotes/reisei-8.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/10"
+file = "emotes/reisei-10.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/11"
+file = "emotes/reisei-11.png"
+ppu = 200
+
+[[replace]]
+game_path = "deco/emo/e20000127/common/12"
+file = "emotes/reisei-12.png"
 ppu = 200
